@@ -1,0 +1,3259 @@
+[
+  {
+    "date": "Sep 1 2026",
+    "moon_sign_events": [
+      {
+        "time": "4:00 am",
+        "event": "Moon enters Taurus",
+        "description": "The Moon in Taurus",
+        "interpretation": "This is a time for settling in, establishing and maintaining routines, and consolidating existing projects. We are building and developing. We crave predictability, stability, and security. This time favors ongoing projects and activities more than new ones."
+      }
+    ],
+    "void_of_course": [],
+    "lunations": [],
+    "stations": [],
+    "aspects": [
+      {
+        "time": "0:37 am",
+        "event": "Tr-Tr Mon Sqq Mer",
+        "description": "Transiting Moon SesquiSquare Transiting Mercury",
+        "interpretation": "What feels right clashes with logic today. What people are saying may be a misrepresentation of their true feelings/emotions. It's better to think before we speak, or misunderstandings can follow."
+      },
+      {
+        "time": "3:39 am",
+        "event": "Tr-Tr Mon Sxt Nod",
+        "description": "Transiting Moon Sextile Transiting North Node",
+        "interpretation": "A good time for dealing with the public, for making connections, and for taking positive steps towards a personal or professional goal. You are able to make changes. This is a feel-good time for embracing new opportunities."
+      },
+      {
+        "time": "4:01 am",
+        "event": "Tr-Tr Mon Cnj Tau",
+        "description": "Transiting Moon Entering Taurus",
+        "interpretation": "This is a time for settling in, establishing and maintaining routines, and consolidating existing projects. We are building and developing. We crave predictability, stability, and security. This time favors ongoing projects and activities more than new ones."
+      },
+      {
+        "time": "4:54 am",
+        "event": "Tr-Tr Mon Cnj Chi",
+        "description": "Transiting Moon Conjunction Transiting Chiron",
+        "interpretation": "There can be events or memories that trigger feelings of rejection or loss. There can be new or easy understanding of our feelings and impressions now. We have a greater understanding of, or compassion for, others' plights. We are more emotionally present and involved, but also quite vulnerable. Synchronicity is a feature of our daily lives now. Tune in and enjoy the spiritual signposts."
+      },
+      {
+        "time": "10:07 am",
+        "event": "Tr-Tr Mon Sqr Plu",
+        "description": "Transiting Moon Square Transiting Pluto",
+        "interpretation": "Deeper feelings emerge suddenly, and possibly in a disruptive way. We may be over-reacting or going to extremes. Wait for the tension to subside before taking action."
+      },
+      {
+        "time": "10:23 am",
+        "event": "Tr-Tr Mon SSx Nep",
+        "description": "Transiting Moon Semisextile Transiting Neptune",
+        "interpretation": ""
+      },
+      {
+        "time": "10:24 am",
+        "event": "Tr-Tr Mon Pll Jup",
+        "description": "Transiting Moon Parallel Transiting Jupiter",
+        "interpretation": ""
+      },
+      {
+        "time": "1:53 pm",
+        "event": "Tr-Tr Mon SSx Ura",
+        "description": "Transiting Moon Semisextile Transiting Uranus",
+        "interpretation": ""
+      },
+      {
+        "time": "4:31 pm",
+        "event": "Tr-Tr Mon Sxt Cer",
+        "description": "Transiting Moon Sextile Transiting Ceres",
+        "interpretation": "We can be feeling pleasantly attached to, or supported by, our loved ones or family. We are seeking out security, nurturing, and warmth, and we are more likely to express these things towards others."
+      },
+      {
+        "time": "8:42 pm",
+        "event": "Tr-Tr Mon Tri Sun",
+        "description": "Transiting Moon Trine Transiting Sun",
+        "interpretation": "There is a nice feeling of harmony and a cooperative feel to this time. Better decision making. We represent ourselves well now. It's easier to attract support, favorable responses, and positive experiences. We are less fearful and less defensive. This is a harmonious time."
+      },
+      {
+        "time": "8:08 am",
+        "event": "Tr-Tr Mer Qnx Sat",
+        "description": "Transiting Mercury Quincunx Transiting Saturn",
+        "interpretation": "Delays, uncertainty, or second-guessing ideas and decisions can slow us down. Adjustments or reassessments may need to be made now, particularly related to important and realistic details that need our attention. Communications may miss the mark."
+      },
+      {
+        "time": "9:20 am",
+        "event": "Tr-Tr Mer Sxt Mar",
+        "description": "Transiting Mercury Sextile Transiting Mars",
+        "interpretation": "Decisiveness. Mental assertiveness. Honesty. Practical solutions. Technical skills. Fast work, rapid progress."
+      },
+      {
+        "time": "10:21 am",
+        "event": "Tr-Tr Mer SSx Jup",
+        "description": "Transiting Mercury Semisextile Transiting Jupiter",
+        "interpretation": ""
+      },
+      {
+        "time": "5:58 am",
+        "event": "Tr-Tr Mar Sqr Sat",
+        "description": "Transiting Mars Square Transiting Saturn",
+        "interpretation": "Discipline and endurance are required now. Resist the urge to control. Accomplish what you can. Any delays are likely to be fortuitous."
+      },
+      {
+        "time": "1:19 pm",
+        "event": "Tr-Tr Mar SSx Jup",
+        "description": "Transiting Mars Semisextile Transiting Jupiter",
+        "interpretation": ""
+      }
+    ]
+  },
+  {
+    "date": "Sep 2 2026",
+    "moon_sign_events": [
+      {
+        "time": "0:00 am",
+        "event": "Moon in Taurus",
+        "description": "The Moon in Taurus",
+        "interpretation": "This is a time for settling in, establishing and maintaining routines, and consolidating existing projects. We are building and developing. We crave predictability, stability, and security. This time favors ongoing projects and activities more than new ones."
+      }
+    ],
+    "void_of_course": [
+      {
+        "time": "6:46 am",
+        "event": "Moon goes void of course",
+        "description": "",
+        "interpretation": ""
+      }
+    ],
+    "lunations": [],
+    "stations": [],
+    "aspects": [
+      {
+        "time": "3:39 am",
+        "event": "Tr-Tr Mon SSx Sat",
+        "description": "Transiting Moon Semisextile Transiting Saturn",
+        "interpretation": ""
+      },
+      {
+        "time": "4:18 am",
+        "event": "Tr-Tr Mon Sqr Jup",
+        "description": "Transiting Moon Square Transiting Jupiter",
+        "interpretation": "We may not be very realistic right now - there can be some exaggeration. Minor annoyances are possible now. Contrariness or disagreements. This is not an ideal time for publicity, promotion, or legal matters. We can experience injustices. We are less inclined to consider the consequences of over-eating, over-drinking, or overdoing in general. This is a time to show some restraint. Grandiosity is not appreciated right now, and excess doesn't go over well either. With a little self-control we can learn about what truly makes us happy."
+      },
+      {
+        "time": "4:47 am",
+        "event": "Tr-Tr Mon Sxt Mar",
+        "description": "Transiting Moon Sextile Transiting Mars",
+        "interpretation": "We are more courageous and able to take the lead. We are in tune with our natural desires and instincts. We express our feelings honestly. We are independent, resourceful, and brave."
+      },
+      {
+        "time": "5:30 am",
+        "event": "Tr-Tr Mon Pll Ura",
+        "description": "Transiting Moon Parallel Transiting Uranus",
+        "interpretation": ""
+      },
+      {
+        "time": "6:46 am",
+        "event": "Tr-Tr Mon Tri Mer",
+        "description": "Transiting Moon Trine Transiting Mercury",
+        "interpretation": "Ideas flow freely. We express feelings with clarity and thoughts with sensitivity. An excellent time for cooperative projects. A good time for taking tests, writing, promoting, public speaking, and studying. We are alert, observant, and our memory is good."
+      },
+      {
+        "time": "12:18 pm",
+        "event": "Tr-Tr Mon SSq Nep",
+        "description": "Transiting Moon SemiSquare Transiting Neptune",
+        "interpretation": "If we are not in touch with our need for inspiration, beauty, compassion, connection to something otherworldly, or our spirituality, we could feel out of sorts right now. Relaxing, listening to music, getting close to nature, or taking a break may resolve this."
+      },
+      {
+        "time": "3:01 pm",
+        "event": "Tr-Tr Mon Pll Cer",
+        "description": "Transiting Moon Parallel Transiting Ceres",
+        "interpretation": ""
+      },
+      {
+        "time": "5:07 pm",
+        "event": "Tr-Tr Mon SSx Pal",
+        "description": "Transiting Moon Semisextile Transiting Pallas",
+        "interpretation": ""
+      },
+      {
+        "time": "5:26 pm",
+        "event": "Tr-Tr Mon Pll Mar",
+        "description": "Transiting Moon Parallel Transiting Mars",
+        "interpretation": ""
+      },
+      {
+        "time": "7:02 pm",
+        "event": "Tr-Tr Mon SSq Cer",
+        "description": "Transiting Moon SemiSquare Transiting Ceres",
+        "interpretation": ""
+      },
+      {
+        "time": "7:39 pm",
+        "event": "Tr-Tr Mon Cpl Plu",
+        "description": "Transiting Moon ContraParallel Transiting Pluto",
+        "interpretation": ""
+      },
+      {
+        "time": "10:57 pm",
+        "event": "Tr-Tr Mon Qnx Ven",
+        "description": "Transiting Moon Quincunx Transiting Venus",
+        "interpretation": "Love relationships or feelings can be unsettled. There can be a conflict experienced between family and friends/lovers, or between comfort and the pursuit of pleasure. Try to relax and not obsess, and show restraint."
+      },
+      {
+        "time": "7:42 am",
+        "event": "Tr-Tr Mer Sqq Chi",
+        "description": "Transiting Mercury SesquiSquare Transiting Chiron",
+        "interpretation": "There is greater sensitivity to what is being said, choice of words, and syntax. Memories and dreams are strong right now. It is time to forgive and forget."
+      }
+    ]
+  },
+  {
+    "date": "Sep 3 2026",
+    "moon_sign_events": [
+      {
+        "time": "7:46 am",
+        "event": "Moon enters Gemini",
+        "description": "The Moon in Gemini",
+        "interpretation": "We are attracted to new ideas, but we need to discriminate more so that we don't become too scattered. Communications mean more to us than usual."
+      }
+    ],
+    "void_of_course": [],
+    "lunations": [],
+    "stations": [],
+    "aspects": [
+      {
+        "time": "1:31 am",
+        "event": "Tr-Tr Mon Tri Jun",
+        "description": "Transiting Moon Trine Transiting Juno",
+        "interpretation": "We can gain strength through others or through our relationships, and we are especially comfortable in one-on-one situations."
+      },
+      {
+        "time": "3:34 am",
+        "event": "Tr-Tr Mon SSx Ves",
+        "description": "Transiting Moon Semisextile Transiting Vesta",
+        "interpretation": ""
+      },
+      {
+        "time": "5:17 am",
+        "event": "Tr-Tr Mon SSq Sat",
+        "description": "Transiting Moon SemiSquare Transiting Saturn",
+        "interpretation": "We could feel burdened, restricted, or limited during this brief influence. We could be feeling a little down on ourselves, excluded, or lonely. There can be some awkwardness or stiffness and difficulty showing affection and feelings. Patience is a virtue right now; otherwise we might succumb to feelings of frustration and sadness.  All good things come to those who wait."
+      },
+      {
+        "time": "7:22 am",
+        "event": "Tr-Tr Mon Sqr Nod",
+        "description": "Transiting Moon Square Transiting North Node",
+        "interpretation": "This is the trigger for out with the old and in with the new. We could feel at odds with others on an emotional level. Public relations are not as favorable now. Plans could need reworking. We could feel temporarily out of the loop."
+      },
+      {
+        "time": "7:43 am",
+        "event": "Tr-Tr Mon SSq Mar",
+        "description": "Transiting Moon SemiSquare Transiting Mars",
+        "interpretation": "We can overreact and exhibit impatience. However, this can also be a time of self-motivation."
+      },
+      {
+        "time": "7:46 am",
+        "event": "Tr-Tr Mon Cnj Gem",
+        "description": "Transiting Moon Entering Gemini",
+        "interpretation": "We are attracted to new ideas, but we need to discriminate more so that we don't become too scattered. Communications mean more to us than usual."
+      },
+      {
+        "time": "8:33 am",
+        "event": "Tr-Tr Mon SSx Chi",
+        "description": "Transiting Moon Semisextile Transiting Chiron",
+        "interpretation": ""
+      },
+      {
+        "time": "1:40 pm",
+        "event": "Tr-Tr Mon Tri Plu",
+        "description": "Transiting Moon Trine Transiting Pluto",
+        "interpretation": "This can be a good time for getting loans, for taking care of business, and for dealing with money matters. It's also good for getting in touch with feelings and managing them effectively. There can be a boost to our intimate life, creative impulses, and self-understanding. Events occurring now might involve some kind of karmic repayment or benefit. We could discover new information, hidden information, or a lost item. This is a time for recycling - seeing new uses for old items. True feelings come to the surface."
+      },
+      {
+        "time": "1:54 pm",
+        "event": "Tr-Tr Mon Sxt Nep",
+        "description": "Transiting Moon Sextile Transiting Neptune",
+        "interpretation": "This is a feel-good time if we allow ourselves to relax and tune into the subtle aspects of life - art, nature, beauty, dreams, and spiritual realms. We absorb things easily, our senses are in good form, and we more naturally accept things and people as they are. There is no need to look for definite answers right now."
+      },
+      {
+        "time": "5:26 pm",
+        "event": "Tr-Tr Mon Cnj Ura",
+        "description": "Transiting Moon Conjunction Transiting Uranus",
+        "interpretation": "Be open to new ideas. Spontaneity is the order of the day. You are free to explore new unexpected possibilities."
+      },
+      {
+        "time": "6:28 pm",
+        "event": "Tr-Tr Mon SSq Pal",
+        "description": "Transiting Moon SemiSquare Transiting Pallas",
+        "interpretation": "We may be concerned about what others are thinking of us now, and can be sensitive to negativity and criticism, or what we perceive as such. We might not understand one another, and can be at odds with one another on a mental or intellectual level. Someone's belief or idea can make us feel insecure or out of sorts, or otherwise rub us the wrong way."
+      },
+      {
+        "time": "9:14 pm",
+        "event": "Tr-Tr Mon SSx Cer",
+        "description": "Transiting Moon Semisextile Transiting Ceres",
+        "interpretation": ""
+      },
+      {
+        "time": "2:36 pm",
+        "event": "Tr-Tr Sun Sqq Jun",
+        "description": "Transiting Sun SesquiSquare Transiting Juno",
+        "interpretation": "We may have difficulty relating to one another if we are not treating each other as equals. There can be temptations to manipulate in order to get our way. There can be jealousy or lack of trust that interferes with healthy interactions. Conceding may feel as if we are giving up something of ourselves."
+      },
+      {
+        "time": "10:33 pm",
+        "event": "Tr-Tr Mer Sqq Plu",
+        "description": "Transiting Mercury SesquiSquare Transiting Pluto",
+        "interpretation": "We can be worried or troubled, a little paranoid, and possibly suspicious with this combination. We are defensive about our ideas, intelligence, or perceptions, and might take it personally if others are not agreeing with or adopting our opinions."
+      },
+      {
+        "time": "0:01 am",
+        "event": "Tr-Tr Mar Sqq Nod",
+        "description": "Transiting Mars SesquiSquare Transiting North Node",
+        "interpretation": "Behavior and desires are at odds with our higher goals. We might take on too much now, or our impatience can interfere with success (haste makes waste). In order to take advantage of new opportunities to achieve our desires, we have to let go of some wilfulness and expectations."
+      }
+    ]
+  },
+  {
+    "date": "Sep 4 2026",
+    "moon_sign_events": [
+      {
+        "time": "0:00 am",
+        "event": "Moon in Gemini",
+        "description": "The Moon in Gemini",
+        "interpretation": "We are attracted to new ideas, but we need to discriminate more so that we don't become too scattered. Communications mean more to us than usual."
+      }
+    ],
+    "void_of_course": [],
+    "lunations": [
+      {
+        "time": "3:50 am",
+        "event": "Third Quarter at 11\u00b0Ge48'",
+        "description": "",
+        "interpretation": ""
+      }
+    ],
+    "stations": [
+      {
+        "time": "3:57 am",
+        "event": "Tr Nod D",
+        "description": "Transiting North Node Stationary",
+        "interpretation": ""
+      }
+    ],
+    "aspects": [
+      {
+        "time": "1:57 am",
+        "event": "Tr-Tr Mon Sqq Ven",
+        "description": "Transiting Moon SesquiSquare Transiting Venus",
+        "interpretation": "We can feel a little out of sorts. Our needs for pleasure, love, or entertainment may be at odds with our needs for comfort and familiarity, and we can be on the fence about what to do next. Overspending or overeating is possible."
+      },
+      {
+        "time": "2:51 am",
+        "event": "Tr-Tr Mon Sqq Jun",
+        "description": "Transiting Moon SesquiSquare Transiting Juno",
+        "interpretation": "There may be clinging or controlling behavior if we are driven by our fears. Hypersensitivity and moodiness are possible. Tread lightly with tricky emotional issues."
+      },
+      {
+        "time": "3:50 am",
+        "event": "Tr-Tr Mon Sqr Sun",
+        "description": "Transiting Moon Square Transiting Sun",
+        "interpretation": "This is a time for noticing discrepancies. Self-expression doesn't flow well, and conflicts can be stirred. There can be some resistance and irritability. This can be a time when we're compelled to take action, make changes, and solve problems."
+      },
+      {
+        "time": "4:56 am",
+        "event": "Tr-Tr Mon SSq Ves",
+        "description": "Transiting Moon SemiSquare Transiting Vesta",
+        "interpretation": "We can be a little stiff with our emotions, and we can be distracted from our work or focus. There can be difficulty expressing tenderness, concern, or care."
+      },
+      {
+        "time": "6:39 am",
+        "event": "Tr-Tr Mon Sxt Sat",
+        "description": "Transiting Moon Sextile Transiting Saturn",
+        "interpretation": "An auspicious time for any project demanding endurance or tolerance. Also good for establishing new habits and rituals."
+      },
+      {
+        "time": "8:16 am",
+        "event": "Tr-Tr Mon Sxt Jup",
+        "description": "Transiting Moon Sextile Transiting Jupiter",
+        "interpretation": "A great time to take up new feel-good opportunities. Show your confidence and optimism and reap the rewards."
+      },
+      {
+        "time": "9:57 am",
+        "event": "Tr-Tr Mon SSq Chi",
+        "description": "Transiting Moon SemiSquare Transiting Chiron",
+        "interpretation": "Hurt feelings may be opportunities for healing. Now is the time for building bridges, not burning them."
+      },
+      {
+        "time": "10:21 am",
+        "event": "Tr-Tr Mon SSx Mar",
+        "description": "Transiting Moon Semisextile Transiting Mars",
+        "interpretation": ""
+      },
+      {
+        "time": "3:03 pm",
+        "event": "Tr-Tr Mon Sqq Plu",
+        "description": "Transiting Moon SesquiSquare Transiting Pluto",
+        "interpretation": "Deeper feelings emerge suddenly, and possibly in a disruptive way. We may be over-reacting or going to extremes. Wait for the tension to subside before taking action."
+      },
+      {
+        "time": "5:29 pm",
+        "event": "Tr-Tr Mon Sqr Mer",
+        "description": "Transiting Moon Square Transiting Mercury",
+        "interpretation": "We may not be communicating with sensitivity. What we communicate could misrepresent what we truly feel. There could be troubles with mechanics, computers, transportation, and miscommunications. We may not be understanding one another. We can be a little fickle and not especially objective. Think before you speak. Otherwise, misunderstandings are likely to occur. Count to ten if you're feeling annoyed."
+      },
+      {
+        "time": "7:36 pm",
+        "event": "Tr-Tr Mon Sxt Pal",
+        "description": "Transiting Moon Sextile Transiting Pallas",
+        "interpretation": "There is a good ability to successfully combine logic and intuition, and to understand problems taking into account the human element. There is sensitivity to people's issues now. Cooperation. Effective, sensitive decision making."
+      },
+      {
+        "time": "6:42 pm",
+        "event": "Tr-Tr Sun Sqq Ves",
+        "description": "Transiting Sun SesquiSquare Transiting Vesta",
+        "interpretation": "There can be difficulties focusing or knowing where/how to direct our energies. For some of us, we may bury ourselves in work as a way to avoid other problems now."
+      },
+      {
+        "time": "4:24 pm",
+        "event": "Tr-Tr Mer Cpl Pal",
+        "description": "Transiting Mercury ContraParallel Transiting Pallas",
+        "interpretation": ""
+      },
+      {
+        "time": "5:33 pm",
+        "event": "Tr-Tr Ven Sqr Jun",
+        "description": "Transiting Venus Square Transiting Juno",
+        "interpretation": "This may be a self-centered, self-indulgent time. We might also resort to trickery or manipulation to get what we want, when a more direct route would be more appropriate. Power games can interfere with healthy relations. There can be a conflict of values, or the differences between ourselves and those close to us are exaggerated in our minds right now."
+      }
+    ]
+  },
+  {
+    "date": "Sep 5 2026",
+    "moon_sign_events": [
+      {
+        "time": "10:30 am",
+        "event": "Moon enters Cancer",
+        "description": "The Moon in Cancer",
+        "interpretation": "This is a good time for making or nurturing emotional connections, sharing feelings, and connecting with our imagination, warmth, compassion, and sensitivity. We might concentrate on home, family, and domestic matters now. Nurture others and also the self."
+      }
+    ],
+    "void_of_course": [
+      {
+        "time": "4:39 am",
+        "event": "Moon goes void of course",
+        "description": "",
+        "interpretation": ""
+      }
+    ],
+    "lunations": [],
+    "stations": [],
+    "aspects": [
+      {
+        "time": "4:01 am",
+        "event": "Tr-Tr Mon Qnx Jun",
+        "description": "Transiting Moon Quincunx Transiting Juno",
+        "interpretation": "There can be some inclination to manipulate others to further our own goals, which should be avoided. There may be indecision regarding feelings about a relationship. Alternatively, there can be a conundrum regarding family and a relationship."
+      },
+      {
+        "time": "4:39 am",
+        "event": "Tr-Tr Mon Tri Ven",
+        "description": "Transiting Moon Trine Transiting Venus",
+        "interpretation": "We are less inhibited and more willing to indulge ourselves. Love and romance can be favorable. Decorating, beauty treatments, the arts, creative pursuits, parties, dates, and recreation are generally favored now. There is increased sensitivity, affection, and warmth. Love is grand! Affection, love, and romance are in the air."
+      },
+      {
+        "time": "6:05 am",
+        "event": "Tr-Tr Mon Sxt Ves",
+        "description": "Transiting Moon Sextile Transiting Vesta",
+        "interpretation": "We can derive a nice feeling of satisfaction and fulfillment from tending to our responsibilities, work, or other commitment. We are more able to make sacrifices or put our emotions aside in order to get something important done. Alternatively, we can bring more sensitivity to our practical affairs. This can be a good time to commit fully to something - especially health and healing matters. It's also a strong time for taking care of domestic matters."
+      },
+      {
+        "time": "9:55 am",
+        "event": "Tr-Tr Mon SSq Jup",
+        "description": "Transiting Moon SemiSquare Transiting Jupiter",
+        "interpretation": "Self-indulgence is more likely now. We're not as inclined to consider the consequences of over-eating, over-drinking, or overdoing in general. We may be acting in a haughty manner."
+      },
+      {
+        "time": "10:06 am",
+        "event": "Tr-Tr Mon Tri Nod",
+        "description": "Transiting Moon Trine Transiting North Node",
+        "interpretation": "A good time for dealing with the public, for making connections, and for taking positive steps towards a personal or professional goal. You are able to make changes. This is a feel-good time for embracing new opportunities."
+      },
+      {
+        "time": "10:30 am",
+        "event": "Tr-Tr Mon Cnj Can",
+        "description": "Transiting Moon Entering Cancer",
+        "interpretation": "This is a good time for making or nurturing emotional connections, sharing feelings, and connecting with our imagination, warmth, compassion, and sensitivity. We might concentrate on home, family, and domestic matters now. Nurture others and also the self."
+      },
+      {
+        "time": "11:10 am",
+        "event": "Tr-Tr Mon Sxt Chi",
+        "description": "Transiting Moon Sextile Transiting Chiron",
+        "interpretation": "We are more emotionally present and involved. We more easily hone in on problem areas and want to fix them. Synchronicity is a feature of our daily life right now. Tune in and enjoy the spiritual signposts."
+      },
+      {
+        "time": "4:15 pm",
+        "event": "Tr-Tr Mon Qnx Plu",
+        "description": "Transiting Moon Quincunx Transiting Pluto",
+        "interpretation": "We may not be aware of our more demanding or controlling tendencies. We may feel vaguely frustrated, powerless, or tense. There can be undermining going on in our interactions and relationships. Wait for the tension to subside before taking action."
+      },
+      {
+        "time": "4:27 pm",
+        "event": "Tr-Tr Mon Sqr Nep",
+        "description": "Transiting Moon Square Transiting Neptune",
+        "interpretation": "There can be confusion, misunderstanding, or some level of chaos and uncertainty. Avoid money transactions or new business initiatives - it can be difficult to think clearly. There may be deception or self-deception to deal with. We might have an emotional urge to escape. Feeling out of sorts and don't know why? Relax and listen to some inspirational music. Honor your need to feed your more refined or spiritual side, and the difficult feelings will soon fade away."
+      },
+      {
+        "time": "8:02 pm",
+        "event": "Tr-Tr Mon SSx Ura",
+        "description": "Transiting Moon Semisextile Transiting Uranus",
+        "interpretation": ""
+      },
+      {
+        "time": "6:48 pm",
+        "event": "Tr-Tr Sun Qnx Sat",
+        "description": "Transiting Sun Quincunx Transiting Saturn",
+        "interpretation": "Responsibilities or reality checks steer us towards making adjustments in plans or goals. Enthusiasm or motivation can wane temporarily."
+      },
+      {
+        "time": "9:09 am",
+        "event": "Tr-Tr Mer Qnx Pal",
+        "description": "Transiting Mercury Quincunx Transiting Pallas",
+        "interpretation": "There can be mental tension and disorganization, making this a difficult time to get a clear message across."
+      }
+    ]
+  },
+  {
+    "date": "Sep 6 2026",
+    "moon_sign_events": [
+      {
+        "time": "0:00 am",
+        "event": "Moon in Cancer",
+        "description": "The Moon in Cancer",
+        "interpretation": "This is a good time for making or nurturing emotional connections, sharing feelings, and connecting with our imagination, warmth, compassion, and sensitivity. We might concentrate on home, family, and domestic matters now. Nurture others and also the self."
+      }
+    ],
+    "void_of_course": [],
+    "lunations": [],
+    "stations": [],
+    "aspects": [
+      {
+        "time": "0:59 am",
+        "event": "Tr-Tr Mon Cnj Cer",
+        "description": "Transiting Moon Conjunction Transiting Ceres",
+        "interpretation": "There is a stronger desire to nourish, care for, or tend to favorite people, things, and projects. There can be greater attention to diet, health, and self-care programs. There can be a stronger connection to people we love, home, and family, and more sensitivity to others in general."
+      },
+      {
+        "time": "8:54 am",
+        "event": "Tr-Tr Mon Sqr Sat",
+        "description": "Transiting Moon Square Transiting Saturn",
+        "interpretation": "We could feel burdened, restricted, or limited during this brief influence. We could be feeling a little down on ourselves, excluded, or lonely. There can be some awkwardness or stiffness and difficulty showing affection and feelings. It's important to be patient now."
+      },
+      {
+        "time": "9:59 am",
+        "event": "Tr-Tr Mon Sxt Sun",
+        "description": "Transiting Moon Sextile Transiting Sun",
+        "interpretation": "This is a harmonious time. People are more cooperative and supportive than usual. Things seem to flow more easily, and confidence is natural."
+      },
+      {
+        "time": "11:17 am",
+        "event": "Tr-Tr Mon Sqq Nod",
+        "description": "Transiting Moon SesquiSquare Transiting North Node",
+        "interpretation": "There may be the need to pause to adjust things before moving plans forward. We could feel at odds with others on an emotional level. Public relations are not as favorable now."
+      },
+      {
+        "time": "11:27 am",
+        "event": "Tr-Tr Mon SSx Jup",
+        "description": "Transiting Moon Semisextile Transiting Jupiter",
+        "interpretation": ""
+      },
+      {
+        "time": "3:05 pm",
+        "event": "Tr-Tr Mon Cnj Mar",
+        "description": "Transiting Moon Conjunction Transiting Mars",
+        "interpretation": "Emotions are all-consuming. We desire adventure, change, and action. We can be hasty and rash, but if we use common sense as well, it can be a good time for getting the courage to do something brave. Instinctive reactions are quick. Courage, mon brave! Make those quick decisions. It's a time for showing leadership skills."
+      },
+      {
+        "time": "9:12 pm",
+        "event": "Tr-Tr Mon SSq Ura",
+        "description": "Transiting Moon SemiSquare Transiting Uranus",
+        "interpretation": "We can easily find ourselves all wound up and nervous. Unpredictable responses from others (and ourselves). Emotional eruptions are possible. Not a good time to make permanent decisions, particularly about relationships and family/domestic matters."
+      },
+      {
+        "time": "9:26 pm",
+        "event": "Tr-Tr Mon Sqr Pal",
+        "description": "Transiting Moon Square Transiting Pallas",
+        "interpretation": "Our judgment may be temporarily impaired by excessive emotions, or emotional bias. We may be experiencing a conundrum. Someone's belief or idea can make us feel insecure or out of sorts, or otherwise rub us the wrong way. There can be sensitivity to others' opinions experienced now."
+      },
+      {
+        "time": "5:53 am",
+        "event": "Tr-Tr Ven Opp Ves",
+        "description": "Transiting Venus Opposition Transiting Vesta",
+        "interpretation": "There may be difficulties showing affection or problems with commitments in relationships now. We might experience creativity blocks or inhibitions."
+      }
+    ]
+  },
+  {
+    "date": "Sep 7 2026",
+    "moon_sign_events": [
+      {
+        "time": "12:49 pm",
+        "event": "Moon enters Leo",
+        "description": "The Moon in Leo",
+        "interpretation": "We have a stronger need for appreciation, shows of affection and warmth, and excitement. We are proud and conduct ourselves accordingly. This is a time for having some fun, being creative and childlike, and enjoying life. It's also a good time for organizing and managing."
+      }
+    ],
+    "void_of_course": [
+      {
+        "time": "9:39 am",
+        "event": "Moon goes void of course",
+        "description": "",
+        "interpretation": ""
+      }
+    ],
+    "lunations": [],
+    "stations": [],
+    "aspects": [
+      {
+        "time": "3:00 am",
+        "event": "Tr-Tr Mon Sxt Mer",
+        "description": "Transiting Moon Sextile Transiting Mercury",
+        "interpretation": "Ideas flow freely. We express feelings with clarity and thoughts with sensitivity. An excellent time for cooperative projects. A good time for taking tests, writing, promoting, public speaking, and studying."
+      },
+      {
+        "time": "6:05 am",
+        "event": "Tr-Tr Mon Opp Jun",
+        "description": "Transiting Moon Opposition Transiting Juno",
+        "interpretation": "Something can be revealed or learned about our relationships. There can be hypersensitivity and moodiness. Temptations to manipulate or control others if we are driven by fear."
+      },
+      {
+        "time": "7:42 am",
+        "event": "Tr-Tr Mon Cpl Plu",
+        "description": "Transiting Moon ContraParallel Transiting Pluto",
+        "interpretation": ""
+      },
+      {
+        "time": "8:06 am",
+        "event": "Tr-Tr Mon Sqr Ves",
+        "description": "Transiting Moon Square Transiting Vesta",
+        "interpretation": "We can be a little stiff with our emotions, and we can be distracted from our work or focus. There can be difficulty expressing tenderness, concern, or care."
+      },
+      {
+        "time": "9:39 am",
+        "event": "Tr-Tr Mon Sqr Ven",
+        "description": "Transiting Moon Square Transiting Venus",
+        "interpretation": "Romantic matters can be unsettled, or we can be a little insecure in our relationships. It can be difficult to show restraint. An indulgent, moody time. Hypersensitivity."
+      },
+      {
+        "time": "11:39 am",
+        "event": "Tr-Tr Mon Pll Mar",
+        "description": "Transiting Moon Parallel Transiting Mars",
+        "interpretation": ""
+      },
+      {
+        "time": "11:54 am",
+        "event": "Tr-Tr Mon Pll Cer",
+        "description": "Transiting Moon Parallel Transiting Ceres",
+        "interpretation": ""
+      },
+      {
+        "time": "12:29 pm",
+        "event": "Tr-Tr Mon Qnx Nod",
+        "description": "Transiting Moon Quincunx Transiting North Node",
+        "interpretation": "There may be the need to pause to adjust things before moving plans forward. We could feel at odds with others on an emotional level. Public relations are not as favorable now."
+      },
+      {
+        "time": "12:49 pm",
+        "event": "Tr-Tr Mon Cnj Leo",
+        "description": "Transiting Moon Entering Leo",
+        "interpretation": "We have a stronger need for appreciation, shows of affection and warmth, and excitement. We are proud and conduct ourselves accordingly. This is a time for having some fun, being creative and childlike, and enjoying life. It's also a good time for organizing and managing."
+      },
+      {
+        "time": "12:58 pm",
+        "event": "Tr-Tr Mon SSq Sun",
+        "description": "Transiting Moon SemiSquare Transiting Sun",
+        "interpretation": "What we feel and what we think we should do can be at odds with one another temporarily. There can be discontent or indecisiveness. We could be feeling out of sorts. Tensions will pass."
+      },
+      {
+        "time": "1:23 pm",
+        "event": "Tr-Tr Mon Sqr Chi",
+        "description": "Transiting Moon Square Transiting Chiron",
+        "interpretation": "We may have some difficulty letting go of hurt feelings or resentments. We can be sensitive to what others think of us, and decisions made now may not reflect our hearts, and can be regrettable later on. We might take things the wrong way due to sensitivity. We may not make efforts to be understood. Hurt feelings are opportunities for healing. Now is the time for building bridges, not burning them."
+      },
+      {
+        "time": "6:31 pm",
+        "event": "Tr-Tr Mon Opp Plu",
+        "description": "Transiting Moon Opposition Transiting Pluto",
+        "interpretation": "A buried or frustrating issue can now come to a head. Something from the past or that was previously hidden can surface. There can be intensity in our relationships or emotional turbulence within. Complex feelings and entanglements can be issues. The need to let go of something could emerge. Wait for the tension to subside before taking action."
+      },
+      {
+        "time": "6:41 pm",
+        "event": "Tr-Tr Mon Tri Nep",
+        "description": "Transiting Moon Trine Transiting Neptune",
+        "interpretation": "This is a feel-good time if we allow ourselves to relax and tune into the subtle aspects of life - art, nature, beauty, dreams, and spiritual realms. We absorb things easily, our senses are in good form, and we more naturally accept things and people as they are. There is no need to look for definite answers right now."
+      },
+      {
+        "time": "9:32 pm",
+        "event": "Tr-Tr Mon Pll Ura",
+        "description": "Transiting Moon Parallel Transiting Uranus",
+        "interpretation": ""
+      },
+      {
+        "time": "10:23 pm",
+        "event": "Tr-Tr Mon Sxt Ura",
+        "description": "Transiting Moon Sextile Transiting Uranus",
+        "interpretation": "We are open to new ideas. A break in the routine is pleasing now. We could be experimenting with new ideas or feelings."
+      },
+      {
+        "time": "9:40 am",
+        "event": "Tr-Tr Sun Cpl Pal",
+        "description": "Transiting Sun ContraParallel Transiting Pallas",
+        "interpretation": ""
+      },
+      {
+        "time": "12:58 pm",
+        "event": "Tr-Tr Sun SSx Jup",
+        "description": "Transiting Sun Semisextile Transiting Jupiter",
+        "interpretation": ""
+      },
+      {
+        "time": "6:54 pm",
+        "event": "Tr-Tr Sun Sqq Chi",
+        "description": "Transiting Sun SesquiSquare Transiting Chiron",
+        "interpretation": "We can feel especially vulnerable to criticism or fear rejection now, or could struggle with a situation where we may need to humble ourselves. People or circumstances may seem to be exposing or playing on our vulnerabilities."
+      },
+      {
+        "time": "7:40 pm",
+        "event": "Tr-Tr Mer Pll Sat",
+        "description": "Transiting Mercury Parallel Transiting Saturn",
+        "interpretation": ""
+      },
+      {
+        "time": "11:57 pm",
+        "event": "Tr-Tr Mar Pll Cer",
+        "description": "Transiting Mars Parallel Transiting Ceres",
+        "interpretation": ""
+      },
+      {
+        "time": "6:35 pm",
+        "event": "Tr-Tr Ura SSq Pal",
+        "description": "Transiting Uranus SemiSquare Transiting Pallas",
+        "interpretation": "There can be scattered thoughts, difficulties in groups and friendships."
+      }
+    ]
+  },
+  {
+    "date": "Sep 8 2026",
+    "moon_sign_events": [
+      {
+        "time": "0:00 am",
+        "event": "Moon in Leo",
+        "description": "The Moon in Leo",
+        "interpretation": "We have a stronger need for appreciation, shows of affection and warmth, and excitement. We are proud and conduct ourselves accordingly. This is a time for having some fun, being creative and childlike, and enjoying life. It's also a good time for organizing and managing."
+      }
+    ],
+    "void_of_course": [],
+    "lunations": [],
+    "stations": [],
+    "aspects": [
+      {
+        "time": "4:31 am",
+        "event": "Tr-Tr Mon SSx Cer",
+        "description": "Transiting Moon Semisextile Transiting Ceres",
+        "interpretation": ""
+      },
+      {
+        "time": "7:44 am",
+        "event": "Tr-Tr Mon SSq Mer",
+        "description": "Transiting Moon SemiSquare Transiting Mercury",
+        "interpretation": "What feels right clashes with logic today. What people are saying may be a misrepresentation of their true feelings/emotions. It's better to think before we speak, or misunderstandings can follow."
+      },
+      {
+        "time": "11:04 am",
+        "event": "Tr-Tr Mon Tri Sat",
+        "description": "Transiting Moon Trine Transiting Saturn",
+        "interpretation": "An auspicious time for any project demanding endurance or tolerance. Also good for establishing new habits and rituals."
+      },
+      {
+        "time": "2:36 pm",
+        "event": "Tr-Tr Mon Cnj Jup",
+        "description": "Transiting Moon Conjunction Transiting Jupiter",
+        "interpretation": "We want to do good and to honor our inner code. We are generous with our energy, time, and money. Our feelings expand or are magnified, for better or for worse. It's generally a good time to teach, learn, write, express ourselves, reach out, travel, publish, and promote. We may go over the top."
+      },
+      {
+        "time": "4:05 pm",
+        "event": "Tr-Tr Mon SSx Sun",
+        "description": "Transiting Moon Semisextile Transiting Sun",
+        "interpretation": ""
+      },
+      {
+        "time": "5:53 pm",
+        "event": "Tr-Tr Mon Pll Jup",
+        "description": "Transiting Moon Parallel Transiting Jupiter",
+        "interpretation": ""
+      },
+      {
+        "time": "7:51 pm",
+        "event": "Tr-Tr Mon SSx Mar",
+        "description": "Transiting Moon Semisextile Transiting Mars",
+        "interpretation": ""
+      },
+      {
+        "time": "7:56 pm",
+        "event": "Tr-Tr Mon Sqq Nep",
+        "description": "Transiting Moon SesquiSquare Transiting Neptune",
+        "interpretation": "If we are not in touch with our need for inspiration, beauty, compassion, connection to something otherworldly, or our spirituality, we could feel out of sorts right now. Relaxing, listening to music, getting close to nature, or taking a break may resolve this."
+      },
+      {
+        "time": "11:23 pm",
+        "event": "Tr-Tr Mon Tri Pal",
+        "description": "Transiting Moon Trine Transiting Pallas",
+        "interpretation": "There is a good ability to successfully combine logic and intuition, and to understand problems taking into account the human element. There is sensitivity to people's issues now. Cooperation. Effective, sensitive decision making."
+      },
+      {
+        "time": "11:53 pm",
+        "event": "Tr-Tr Mon Cpl Ven",
+        "description": "Transiting Moon ContraParallel Transiting Venus",
+        "interpretation": ""
+      },
+      {
+        "time": "3:25 am",
+        "event": "Tr-Tr Mer Tri Jun",
+        "description": "Transiting Mercury Trine Transiting Juno",
+        "interpretation": "This is a good time to team up with someone to generate ideas or solve problems, or simply to listen to and be heard. Mental rapport can be experienced now."
+      },
+      {
+        "time": "6:46 pm",
+        "event": "Tr-Tr Mer Qnx Ves",
+        "description": "Transiting Mercury Quincunx Transiting Vesta",
+        "interpretation": ""
+      }
+    ]
+  },
+  {
+    "date": "Sep 9 2026",
+    "moon_sign_events": [
+      {
+        "time": "3:34 pm",
+        "event": "Moon enters Virgo",
+        "description": "The Moon in Virgo",
+        "interpretation": "We crave organization and order, and are quickly disturbed by anything standing in the way of these things. This is a good time for chores, organizing, and tidying. It's also a time for scheduling health appointments and checkups, starting new routines, and generally tending to details."
+      }
+    ],
+    "void_of_course": [
+      {
+        "time": "2:57 pm",
+        "event": "Moon goes void of course",
+        "description": "",
+        "interpretation": ""
+      }
+    ],
+    "lunations": [],
+    "stations": [
+      {
+        "time": "3:18 pm",
+        "event": "Tr Nod R",
+        "description": "Transiting North Node Stationary",
+        "interpretation": ""
+      }
+    ],
+    "aspects": [
+      {
+        "time": "6:30 am",
+        "event": "Tr-Tr Mon SSq Cer",
+        "description": "Transiting Moon SemiSquare Transiting Ceres",
+        "interpretation": ""
+      },
+      {
+        "time": "8:31 am",
+        "event": "Tr-Tr Mon Qnx Jun",
+        "description": "Transiting Moon Quincunx Transiting Juno",
+        "interpretation": "There can be some inclination to manipulate others to further our own goals, which should be avoided. There may be indecision regarding feelings about a relationship. Alternatively, there can be a conundrum regarding family and a relationship."
+      },
+      {
+        "time": "10:24 am",
+        "event": "Tr-Tr Mon Tri Ves",
+        "description": "Transiting Moon Trine Transiting Vesta",
+        "interpretation": "We can derive a nice feeling of satisfaction and fulfillment from tending to our responsibilities, work, or other commitment. We are more able to make sacrifices or put our emotions aside in order to get something important done. Alternatively, we can bring more sensitivity to our practical affairs. This can be a good time to commit fully to something - especially health and healing matters. It's also a strong time for taking care of domestic matters."
+      },
+      {
+        "time": "12:24 pm",
+        "event": "Tr-Tr Mon Sqq Sat",
+        "description": "Transiting Moon SesquiSquare Transiting Saturn",
+        "interpretation": "We could feel burdened, restricted, or limited during this brief influence. We could be feeling a little down on ourselves, excluded, or lonely. There can be some awkwardness or stiffness and difficulty showing affection and feelings. Patience is a virtue right now; otherwise we might succumb to feelings of frustration and sadness.  All good things come to those who wait."
+      },
+      {
+        "time": "12:43 pm",
+        "event": "Tr-Tr Mon SSx Mer",
+        "description": "Transiting Moon Semisextile Transiting Mercury",
+        "interpretation": ""
+      },
+      {
+        "time": "2:24 pm",
+        "event": "Tr-Tr Mon Pll Chi",
+        "description": "Transiting Moon Parallel Transiting Chiron",
+        "interpretation": ""
+      },
+      {
+        "time": "2:57 pm",
+        "event": "Tr-Tr Mon Sxt Ven",
+        "description": "Transiting Moon Sextile Transiting Venus",
+        "interpretation": "We are less inhibited and more willing to indulge ourselves. Love and romance can be favorable. Decorating, beauty treatments, the arts, creative pursuits, parties, dates, and recreation are generally favored now. Smile, laugh, and enjoy!"
+      },
+      {
+        "time": "3:16 pm",
+        "event": "Tr-Tr Mon Opp Nod",
+        "description": "Transiting Moon Opposition Transiting North Node",
+        "interpretation": "We can be sticking with what's familiar instead of reaching out and challenging ourselves now. This can be a turning point for out with the old and in with the new."
+      },
+      {
+        "time": "3:16 pm",
+        "event": "Tr-Tr Mon Cpl Nod",
+        "description": "Transiting Moon ContraParallel Transiting North Node",
+        "interpretation": ""
+      },
+      {
+        "time": "3:34 pm",
+        "event": "Tr-Tr Mon Cnj Vir",
+        "description": "Transiting Moon Entering Virgo",
+        "interpretation": "We crave organization and order, and are quickly disturbed by anything standing in the way of these things. This is a good time for chores, organizing, and tidying. It's also a time for scheduling health appointments and checkups, starting new routines, and generally tending to details."
+      },
+      {
+        "time": "4:03 pm",
+        "event": "Tr-Tr Mon Tri Chi",
+        "description": "Transiting Moon Trine Transiting Chiron",
+        "interpretation": "There can be new or easy understanding of our feelings and impressions now. We have a greater understanding of, or compassion for, others' plights. We are more emotionally present and involved. Synchronicity is a feature of our daily life right now. Tune in and enjoy the spiritual signposts."
+      },
+      {
+        "time": "8:25 pm",
+        "event": "Tr-Tr Mon Cpl Jun",
+        "description": "Transiting Moon ContraParallel Transiting Juno",
+        "interpretation": ""
+      },
+      {
+        "time": "9:20 pm",
+        "event": "Tr-Tr Mon Qnx Plu",
+        "description": "Transiting Moon Quincunx Transiting Pluto",
+        "interpretation": "We may not be aware of our more demanding or controlling tendencies. We may feel vaguely frustrated, powerless, or tense. There can be undermining going on in our interactions and relationships. Wait for the tension to subside before taking action."
+      },
+      {
+        "time": "9:28 pm",
+        "event": "Tr-Tr Mon Qnx Nep",
+        "description": "Transiting Moon Quincunx Transiting Neptune",
+        "interpretation": "We could be feeling out of sorts. We are especially sensitive to subtle planes, but may not be able to make sense of what we perceive. We could be impractical just for now."
+      },
+      {
+        "time": "10:37 pm",
+        "event": "Tr-Tr Mon SSq Mar",
+        "description": "Transiting Moon SemiSquare Transiting Mars",
+        "interpretation": "We can overreact and exhibit impatience. However, this can also be a time of self-motivation."
+      },
+      {
+        "time": "9:45 pm",
+        "event": "Tr-Tr Ven Tri Nod",
+        "description": "Transiting Venus Trine Transiting North Node",
+        "interpretation": "This can be a time when we are more agreeable, or come into the company of people who we harmonize with, connect well with, and who tend to be good for us. We might feel we are lucky with money or in affairs of the heart. Fortunate connections might be made now."
+      }
+    ]
+  },
+  {
+    "date": "Sep 10 2026",
+    "moon_sign_events": [
+      {
+        "time": "0:00 am",
+        "event": "Moon in Virgo",
+        "description": "The Moon in Virgo",
+        "interpretation": "We crave organization and order, and are quickly disturbed by anything standing in the way of these things. This is a good time for chores, organizing, and tidying. It's also a time for scheduling health appointments and checkups, starting new routines, and generally tending to details."
+      }
+    ],
+    "void_of_course": [],
+    "lunations": [
+      {
+        "time": "11:26 pm",
+        "event": "New Moon at 18\u00b0Vi25'",
+        "description": "",
+        "interpretation": ""
+      }
+    ],
+    "stations": [
+      {
+        "time": "2:27 pm",
+        "event": "Tr Ura R",
+        "description": "Transiting Uranus Stationary",
+        "interpretation": ""
+      }
+    ],
+    "aspects": [
+      {
+        "time": "0:41 am",
+        "event": "Tr-Tr Mon Sqq Pal",
+        "description": "Transiting Moon SesquiSquare Transiting Pallas",
+        "interpretation": "We may be concerned about what others are thinking of us now, and can be sensitive to negativity and criticism, or what we perceive as such. We might not understand one another, and can be at odds with one another on a mental or intellectual level. Someone's belief or idea can make us feel insecure or out of sorts, or otherwise rub us the wrong way."
+      },
+      {
+        "time": "1:21 am",
+        "event": "Tr-Tr Mon Sqr Ura",
+        "description": "Transiting Moon Square Transiting Uranus",
+        "interpretation": "There may be sudden, minor changes to plans, schedules. There can be rebelliousness and tension. Aim to be open to possibilities, and avoid making permanent decisions."
+      },
+      {
+        "time": "8:50 am",
+        "event": "Tr-Tr Mon Sxt Cer",
+        "description": "Transiting Moon Sextile Transiting Ceres",
+        "interpretation": "We can be feeling pleasantly attached to, or supported by, our loved ones or family. We are seeking out security, nurturing, and warmth, and we are more likely to express these things towards others."
+      },
+      {
+        "time": "9:42 am",
+        "event": "Tr-Tr Mon Cpl Pal",
+        "description": "Transiting Moon ContraParallel Transiting Pallas",
+        "interpretation": ""
+      },
+      {
+        "time": "10:11 am",
+        "event": "Tr-Tr Mon Sqq Jun",
+        "description": "Transiting Moon SesquiSquare Transiting Juno",
+        "interpretation": "There may be clinging or controlling behavior if we are driven by our fears. Hypersensitivity and moodiness are possible. Tread lightly with tricky emotional issues."
+      },
+      {
+        "time": "11:58 am",
+        "event": "Tr-Tr Mon Sqq Ves",
+        "description": "Transiting Moon SesquiSquare Transiting Vesta",
+        "interpretation": "We can be a little stiff with our emotions, and we can be distracted from our work or focus. There can be difficulty expressing tenderness, concern, or care."
+      },
+      {
+        "time": "2:06 pm",
+        "event": "Tr-Tr Mon Qnx Sat",
+        "description": "Transiting Moon Quincunx Transiting Saturn",
+        "interpretation": "This is a brief period of uncertainty, guilt, fear of not performing well, fear of rejection, a feeling that others will not support or fulfill our needs/desires, or a sense that something can't be achieved. Patience is a virtue right now. Otherwise we might succumb to feelings of frustration and sadness.  All good things come to those who wait."
+      },
+      {
+        "time": "5:19 pm",
+        "event": "Tr-Tr Mon Pll Sun",
+        "description": "Transiting Moon Parallel Transiting Sun",
+        "interpretation": ""
+      },
+      {
+        "time": "5:52 pm",
+        "event": "Tr-Tr Mon Sqq Chi",
+        "description": "Transiting Moon SesquiSquare Transiting Chiron",
+        "interpretation": "Hurt feelings may be opportunities for healing. Now is the time for building bridges, not burning them."
+      },
+      {
+        "time": "6:07 pm",
+        "event": "Tr-Tr Mon SSq Ven",
+        "description": "Transiting Moon SemiSquare Transiting Venus",
+        "interpretation": "Relationships may be subtly strained or unsettled. Try to relax and not obsess. Restlessness can lead to poor choices or overindulgence. Show restraint and reap the rewards."
+      },
+      {
+        "time": "6:46 pm",
+        "event": "Tr-Tr Mon SSx Jup",
+        "description": "Transiting Moon Semisextile Transiting Jupiter",
+        "interpretation": ""
+      },
+      {
+        "time": "11:17 pm",
+        "event": "Tr-Tr Mon Sqq Plu",
+        "description": "Transiting Moon SesquiSquare Transiting Pluto",
+        "interpretation": "Deeper feelings emerge suddenly, and possibly in a disruptive way. We may be over-reacting or going to extremes. Wait for the tension to subside before taking action."
+      },
+      {
+        "time": "11:26 pm",
+        "event": "Tr-Tr Mon Cnj Sun",
+        "description": "Transiting Moon Conjunction Transiting Sun",
+        "interpretation": "It's a New Moon and we have a chance to wipe the slate clean and start anew. This is an impulsive time."
+      },
+      {
+        "time": "9:17 pm",
+        "event": "Tr-Tr Sun Sqq Plu",
+        "description": "Transiting Sun SesquiSquare Transiting Pluto",
+        "interpretation": "We may be tempted to control or manipulate events and people."
+      },
+      {
+        "time": "9:48 am",
+        "event": "Tr-Tr Mer Qnx Nod",
+        "description": "Transiting Mercury Quincunx Transiting North Node",
+        "interpretation": "Make a few adjustments to your ideas and plans, but trust your overall instincts. Destiny plays its own role right now."
+      },
+      {
+        "time": "12:20 pm",
+        "event": "Tr-Tr Mer Cnj Lib",
+        "description": "Transiting Mercury Entering Libra",
+        "interpretation": "Diplomacy is required. Plan social events. Pursue artistic projects."
+      },
+      {
+        "time": "3:49 pm",
+        "event": "Tr-Tr Mer Qnx Chi",
+        "description": "Transiting Mercury Quincunx Transiting Chiron",
+        "interpretation": "There can be less confidence in our decisions, temporarily. Words, or lack of, can hurt right now. There is greater sensitivity to what is being said, choice of words, and syntax."
+      },
+      {
+        "time": "5:29 pm",
+        "event": "Tr-Tr Mer SSx Ven",
+        "description": "Transiting Mercury Semisextile Transiting Venus",
+        "interpretation": ""
+      },
+      {
+        "time": "11:37 pm",
+        "event": "Tr-Tr Mer SSq Jup",
+        "description": "Transiting Mercury SemiSquare Transiting Jupiter",
+        "interpretation": "Mentally pushing the limits -- overassimilation. Interest in learning and travel. Overconfident judgments. Opinions."
+      },
+      {
+        "time": "4:06 am",
+        "event": "Tr-Tr Ven Cnj Sco",
+        "description": "Transiting Venus Entering Scorpio",
+        "interpretation": "Our relationships can be consuming at this time. We reject mediocrity and superficiality in love, objects of art, business pursuits. We might learn of a partner's wants and needs. Be wary of secrets."
+      },
+      {
+        "time": "1:15 pm",
+        "event": "Tr-Tr Ven Opp Chi",
+        "description": "Transiting Venus Opposition Transiting Chiron",
+        "interpretation": "It is time to say goodbye to painful associations. Opportunities exist for more positive relationships that support and sustain you."
+      },
+      {
+        "time": "2:42 am",
+        "event": "Tr-Tr Nep Pll Ves",
+        "description": "Transiting Neptune Parallel Transiting Vesta",
+        "interpretation": ""
+      }
+    ]
+  },
+  {
+    "date": "Sep 11 2026",
+    "moon_sign_events": [
+      {
+        "time": "7:51 pm",
+        "event": "Moon enters Libra",
+        "description": "The Moon in Libra",
+        "interpretation": "This is a time for seeking out balance, harmony, and peace. It's also a time to express emotions gracefully, diplomatically, and considerately. There could be a stronger focus on a relationship, partner, or potential partner. The ability to see both sides of a situation or story is a positive, but indecision can be a byproduct. This is a sociable, artistic Moon."
+      }
+    ],
+    "void_of_course": [
+      {
+        "time": "1:51 am",
+        "event": "Moon goes void of course",
+        "description": "",
+        "interpretation": ""
+      }
+    ],
+    "lunations": [],
+    "stations": [],
+    "aspects": [
+      {
+        "time": "0:44 am",
+        "event": "Tr-Tr Mon Pll Sat",
+        "description": "Transiting Moon Parallel Transiting Saturn",
+        "interpretation": ""
+      },
+      {
+        "time": "1:51 am",
+        "event": "Tr-Tr Mon Sxt Mar",
+        "description": "Transiting Moon Sextile Transiting Mars",
+        "interpretation": "We are more courageous and able to take the lead. We are in tune with our natural desires and instincts. We express our feelings honestly. We are independent, resourceful, and brave."
+      },
+      {
+        "time": "2:23 am",
+        "event": "Tr-Tr Mon Qnx Pal",
+        "description": "Transiting Moon Quincunx Transiting Pallas",
+        "interpretation": ""
+      },
+      {
+        "time": "10:32 am",
+        "event": "Tr-Tr Mon Pll Nep",
+        "description": "Transiting Moon Parallel Transiting Neptune",
+        "interpretation": ""
+      },
+      {
+        "time": "10:54 am",
+        "event": "Tr-Tr Mon Pll Mer",
+        "description": "Transiting Moon Parallel Transiting Mercury",
+        "interpretation": ""
+      },
+      {
+        "time": "10:57 am",
+        "event": "Tr-Tr Mon Pll Ves",
+        "description": "Transiting Moon Parallel Transiting Vesta",
+        "interpretation": ""
+      },
+      {
+        "time": "12:20 pm",
+        "event": "Tr-Tr Mon Tri Jun",
+        "description": "Transiting Moon Trine Transiting Juno",
+        "interpretation": "We can gain strength through others or through our relationships, and we are especially comfortable in one-on-one situations."
+      },
+      {
+        "time": "2:00 pm",
+        "event": "Tr-Tr Mon Qnx Ves",
+        "description": "Transiting Moon Quincunx Transiting Vesta",
+        "interpretation": ""
+      },
+      {
+        "time": "7:28 pm",
+        "event": "Tr-Tr Mon Qnx Nod",
+        "description": "Transiting Moon Quincunx Transiting North Node",
+        "interpretation": "There may be the need to pause to adjust things before moving plans forward. We could feel at odds with others on an emotional level. Public relations are not as favorable now."
+      },
+      {
+        "time": "7:51 pm",
+        "event": "Tr-Tr Mon Cnj Lib",
+        "description": "Transiting Moon Entering Libra",
+        "interpretation": "This is a time for seeking out balance, harmony, and peace. It's also a time to express emotions gracefully, diplomatically, and considerately. There could be a stronger focus on a relationship, partner, or potential partner. The ability to see both sides of a situation or story is a positive, but indecision can be a byproduct. This is a sociable, artistic Moon."
+      },
+      {
+        "time": "8:13 pm",
+        "event": "Tr-Tr Mon Qnx Chi",
+        "description": "Transiting Moon Quincunx Transiting Chiron",
+        "interpretation": "Hurt feelings may be opportunities for healing. Now is the time for building bridges, not burning them."
+      },
+      {
+        "time": "8:43 pm",
+        "event": "Tr-Tr Mon Cpl Sat",
+        "description": "Transiting Moon ContraParallel Transiting Saturn",
+        "interpretation": ""
+      },
+      {
+        "time": "9:35 pm",
+        "event": "Tr-Tr Mon SSq Jup",
+        "description": "Transiting Moon SemiSquare Transiting Jupiter",
+        "interpretation": "Self-indulgence is more likely now. We're not as inclined to consider the consequences of over-eating, over-drinking, or overdoing in general. We may be acting in a haughty manner."
+      },
+      {
+        "time": "9:50 pm",
+        "event": "Tr-Tr Mon SSx Ven",
+        "description": "Transiting Moon Semisextile Transiting Venus",
+        "interpretation": ""
+      },
+      {
+        "time": "7:48 am",
+        "event": "Tr-Tr Mer Pll Nep",
+        "description": "Transiting Mercury Parallel Transiting Neptune",
+        "interpretation": ""
+      },
+      {
+        "time": "11:19 am",
+        "event": "Tr-Tr Mer Pll Ves",
+        "description": "Transiting Mercury Parallel Transiting Vesta",
+        "interpretation": ""
+      },
+      {
+        "time": "11:06 am",
+        "event": "Tr-Tr Mar Sqr Pal",
+        "description": "Transiting Mars Square Transiting Pallas",
+        "interpretation": "Plans temporarily seem less doable, or enthusiasm blows out of steam. Avoid hasty decisions now."
+      },
+      {
+        "time": "8:14 am",
+        "event": "Tr-Tr Nep Cpl Ves",
+        "description": "Transiting Neptune ContraParallel Transiting Vesta",
+        "interpretation": ""
+      }
+    ]
+  },
+  {
+    "date": "Sep 12 2026",
+    "moon_sign_events": [
+      {
+        "time": "0:00 am",
+        "event": "Moon in Libra",
+        "description": "The Moon in Libra",
+        "interpretation": "This is a time for seeking out balance, harmony, and peace. It's also a time to express emotions gracefully, diplomatically, and considerately. There could be a stronger focus on a relationship, partner, or potential partner. The ability to see both sides of a situation or story is a positive, but indecision can be a byproduct. This is a sociable, artistic Moon."
+      }
+    ],
+    "void_of_course": [],
+    "lunations": [],
+    "stations": [],
+    "aspects": [
+      {
+        "time": "0:20 am",
+        "event": "Tr-Tr Mon Cnj Mer",
+        "description": "Transiting Moon Conjunction Transiting Mercury",
+        "interpretation": "Ideas flow freely and surface spontaneously. We express feelings and thoughts with clarity. We are busy, alert, curious, and communicative. This can be an excellent time for cooperative projects."
+      },
+      {
+        "time": "1:47 am",
+        "event": "Tr-Tr Mon Tri Plu",
+        "description": "Transiting Moon Trine Transiting Pluto",
+        "interpretation": "This can be a good time for getting loans, for taking care of business, and for dealing with money matters. It's also good for getting in touch with feelings and managing them effectively. There can be a boost to our intimate life, creative impulses, and self-understanding. Events occurring now might involve some kind of karmic repayment or benefit. We could discover new information, hidden information, or a lost item. This is a time for recycling - seeing new uses for old items. True feelings come to the surface."
+      },
+      {
+        "time": "1:53 am",
+        "event": "Tr-Tr Mon Opp Nep",
+        "description": "Transiting Moon Opposition Transiting Neptune",
+        "interpretation": "We can be faced with confusing events, and we may not be seeing others clearly. People may be noncommittal, elusive, or absent when we need them. We are more vulnerable and sensitive. Moods are hard to define. Honor your need to feed your more refined or spiritual side, and the difficult feelings will soon fade away."
+      },
+      {
+        "time": "2:24 am",
+        "event": "Tr-Tr Mon Cpl Sun",
+        "description": "Transiting Moon ContraParallel Transiting Sun",
+        "interpretation": ""
+      },
+      {
+        "time": "6:02 am",
+        "event": "Tr-Tr Mon Tri Ura",
+        "description": "Transiting Moon Trine Transiting Uranus",
+        "interpretation": "We are open to new ideas. A break in the routine is pleasing now. We could be experimenting with new ideas or feelings. There can be chance meetings, events that occur that open our minds or our awareness."
+      },
+      {
+        "time": "2:42 pm",
+        "event": "Tr-Tr Mon Pll Pal",
+        "description": "Transiting Moon Parallel Transiting Pallas",
+        "interpretation": ""
+      },
+      {
+        "time": "3:11 pm",
+        "event": "Tr-Tr Mon Sqr Cer",
+        "description": "Transiting Moon Square Transiting Ceres",
+        "interpretation": "There can be conflicts with loved ones, or we could be feeling unsupported. People could seem insensitive or uncaring, or our own needs seem to be at odds with the needs of family and friends."
+      },
+      {
+        "time": "7:07 pm",
+        "event": "Tr-Tr Mon Opp Sat",
+        "description": "Transiting Moon Opposition Transiting Saturn",
+        "interpretation": "There could be a realization that is disappointing or depressing, a feeling of limitation, or an experience of being blocked or thwarted now. There could be a lack of warmth and sensitivity experienced now, and self-protectiveness."
+      },
+      {
+        "time": "10:26 pm",
+        "event": "Tr-Tr Mon Sqq Nod",
+        "description": "Transiting Moon SesquiSquare Transiting North Node",
+        "interpretation": "There may be the need to pause to adjust things before moving plans forward. We could feel at odds with others on an emotional level. Public relations are not as favorable now."
+      },
+      {
+        "time": "10:47 am",
+        "event": "Tr-Tr Sun Qnx Pal",
+        "description": "Transiting Sun Quincunx Transiting Pallas",
+        "interpretation": "Our ability to see things clearly or rationally can be compromised by ego issues or lack of confidence now."
+      },
+      {
+        "time": "11:58 am",
+        "event": "Tr-Tr Mer Tri Plu",
+        "description": "Transiting Mercury Trine Transiting Pluto",
+        "interpretation": "This is a good time for serious and determined study and investigation. We are drawn to looking for truths and to unexplored topics and ideas. Penetrating conversation. Power in speech. Persuasion. Talk of change and sexuality. Psychological issues. Exposure."
+      },
+      {
+        "time": "12:37 pm",
+        "event": "Tr-Tr Mer Opp Nep",
+        "description": "Transiting Mercury Opposition Transiting Neptune",
+        "interpretation": "Overstimulated imagination. Subtle perceptions. Right brain (intuitive) thinking. Confusion. Misperception. Deceit."
+      },
+      {
+        "time": "9:17 am",
+        "event": "Tr-Tr Ven Cpl Jup",
+        "description": "Transiting Venus ContraParallel Transiting Jupiter",
+        "interpretation": ""
+      },
+      {
+        "time": "12:10 pm",
+        "event": "Tr-Tr Mar SSq Ura",
+        "description": "Transiting Mars SemiSquare Transiting Uranus",
+        "interpretation": "We may be looking to dominate or to assert our independence if we feel trapped, restricted, or otherwise limited. Impulsiveness can be a problem. With creativity, we may be able to break through obstacles in unusual and unique ways."
+      }
+    ]
+  },
+  {
+    "date": "Sep 13 2026",
+    "moon_sign_events": [
+      {
+        "time": "0:00 am",
+        "event": "Moon in Libra",
+        "description": "The Moon in Libra",
+        "interpretation": "This is a time for seeking out balance, harmony, and peace. It's also a time to express emotions gracefully, diplomatically, and considerately. There could be a stronger focus on a relationship, partner, or potential partner. The ability to see both sides of a situation or story is a positive, but indecision can be a byproduct. This is a sociable, artistic Moon."
+      }
+    ],
+    "void_of_course": [
+      {
+        "time": "10:26 am",
+        "event": "Moon goes void of course",
+        "description": "",
+        "interpretation": ""
+      }
+    ],
+    "lunations": [],
+    "stations": [],
+    "aspects": [
+      {
+        "time": "1:07 am",
+        "event": "Tr-Tr Mon Sxt Jup",
+        "description": "Transiting Moon Sextile Transiting Jupiter",
+        "interpretation": "A great time to take up new feel-good opportunities. Show your confidence and optimism and reap the rewards."
+      },
+      {
+        "time": "4:02 am",
+        "event": "Tr-Tr Mon Pll Jun",
+        "description": "Transiting Moon Parallel Transiting Juno",
+        "interpretation": ""
+      },
+      {
+        "time": "7:32 am",
+        "event": "Tr-Tr Mon Opp Pal",
+        "description": "Transiting Moon Opposition Transiting Pallas",
+        "interpretation": "We can be at odds with one another over a mental or intellectual matter, belief, or idea now. It takes extra effort to understand one another."
+      },
+      {
+        "time": "8:10 am",
+        "event": "Tr-Tr Mon Pll Nod",
+        "description": "Transiting Moon Parallel Transiting North Node",
+        "interpretation": ""
+      },
+      {
+        "time": "8:46 am",
+        "event": "Tr-Tr Mon Cpl Chi",
+        "description": "Transiting Moon ContraParallel Transiting Chiron",
+        "interpretation": ""
+      },
+      {
+        "time": "9:22 am",
+        "event": "Tr-Tr Mon Sqq Ura",
+        "description": "Transiting Moon SesquiSquare Transiting Uranus",
+        "interpretation": "We can easily find ourselves all wound up and nervous. Unpredictable responses from others (and ourselves). Emotional eruptions are possible. Not a good time to make permanent decisions, particularly about relationships and family/domestic matters."
+      },
+      {
+        "time": "9:33 am",
+        "event": "Tr-Tr Mon SSx Sun",
+        "description": "Transiting Moon Semisextile Transiting Sun",
+        "interpretation": ""
+      },
+      {
+        "time": "10:26 am",
+        "event": "Tr-Tr Mon Sqr Mar",
+        "description": "Transiting Moon Square Transiting Mars",
+        "interpretation": "We can overreact and exhibit impatience. However, this can also be a time of self-motivation. Our need for challenges and action is stimulated now, but we may not find the right outlets."
+      },
+      {
+        "time": "6:40 pm",
+        "event": "Tr-Tr Mon Sqr Jun",
+        "description": "Transiting Moon Square Transiting Juno",
+        "interpretation": "There may be clinging or controlling behavior if we are driven by our fears. Hypersensitivity and moodiness are possible. Tread lightly with tricky emotional issues."
+      },
+      {
+        "time": "7:58 pm",
+        "event": "Tr-Tr Mon Opp Ves",
+        "description": "Transiting Moon Opposition Transiting Vesta",
+        "interpretation": "We can be a little stiff with our emotions, and we can be distracted from our work or focus. There can be difficulty expressing tenderness, concern, or care."
+      },
+      {
+        "time": "10:39 pm",
+        "event": "Tr-Tr Mer Tri Ura",
+        "description": "Transiting Mercury Trine Transiting Uranus",
+        "interpretation": "We are mentally alert and aware, and might be experimenting or opening our minds to new ideas. We could be feeling inspired, and our thinking is inventive. Varying our usual routine may be rewarding."
+      }
+    ]
+  },
+  {
+    "date": "Sep 14 2026",
+    "moon_sign_events": [
+      {
+        "time": "2:43 am",
+        "event": "Moon enters Scorpio",
+        "description": "The Moon in Scorpio",
+        "interpretation": "Contemplate the deeper things in life. Avoid unnecessary conflict, but if it's going to improve your life, go ahead and make waves. Tune in to your intuition. This is a good time for investigations, looking into a matter further, doing research, connecting to others with a shared passion, solving a mystery, and devising a strategy. When the Moon in Scorpio is strained, we may take our passions too far."
+      }
+    ],
+    "void_of_course": [],
+    "lunations": [],
+    "stations": [],
+    "aspects": [
+      {
+        "time": "2:07 am",
+        "event": "Tr-Tr Mon Tri Nod",
+        "description": "Transiting Moon Trine Transiting North Node",
+        "interpretation": "A good time for dealing with the public, for making connections, and for taking positive steps towards a personal or professional goal. You are able to make changes. This is a feel-good time for embracing new opportunities."
+      },
+      {
+        "time": "2:43 am",
+        "event": "Tr-Tr Mon Cnj Sco",
+        "description": "Transiting Moon Entering Scorpio",
+        "interpretation": "Contemplate the deeper things in life. Avoid unnecessary conflict, but if it's going to improve your life, go ahead and make waves. Tune in to your intuition. This is a good time for investigations, looking into a matter further, doing research, connecting to others with a shared passion, solving a mystery, and devising a strategy. When the Moon in Scorpio is strained, we may take our passions too far."
+      },
+      {
+        "time": "2:58 am",
+        "event": "Tr-Tr Mon Opp Chi",
+        "description": "Transiting Moon Opposition Transiting Chiron",
+        "interpretation": "Hurt feelings are opportunities for healing. Now is the time to build bridges rather than burning them."
+      },
+      {
+        "time": "6:06 am",
+        "event": "Tr-Tr Mon Cpl Jup",
+        "description": "Transiting Moon ContraParallel Transiting Jupiter",
+        "interpretation": ""
+      },
+      {
+        "time": "7:32 am",
+        "event": "Tr-Tr Mon Cnj Ven",
+        "description": "Transiting Moon Conjunction Transiting Venus",
+        "interpretation": "We are less inhibited and more willing to indulge ourselves. Love and romance can be favorable. Decorating, beauty treatments, the arts, creative pursuits, parties, dates, and recreation are generally favored now. There is increased sensitivity, affection, and warmth. Love is grand! Affection, love, and romance are in the air."
+      },
+      {
+        "time": "8:56 am",
+        "event": "Tr-Tr Mon Sqr Plu",
+        "description": "Transiting Moon Square Transiting Pluto",
+        "interpretation": "Deeper feelings emerge suddenly, and possibly in a disruptive way. We may be over-reacting or going to extremes. Wait for the tension to subside before taking action."
+      },
+      {
+        "time": "8:58 am",
+        "event": "Tr-Tr Mon Qnx Nep",
+        "description": "Transiting Moon Quincunx Transiting Neptune",
+        "interpretation": "We could be feeling out of sorts. We are especially sensitive to subtle planes, but may not be able to make sense of what we perceive. We could be impractical just for now."
+      },
+      {
+        "time": "9:54 am",
+        "event": "Tr-Tr Mon Pll Ven",
+        "description": "Transiting Moon Parallel Transiting Venus",
+        "interpretation": ""
+      },
+      {
+        "time": "1:29 pm",
+        "event": "Tr-Tr Mon Qnx Ura",
+        "description": "Transiting Moon Quincunx Transiting Uranus",
+        "interpretation": "There can be vague insecurity stimulated now, as we feel a little out of control faced with unpredictable events or feelings. There may be a conflict between a desire for familiarity and comfort, and the need for a change or excitement."
+      },
+      {
+        "time": "3:40 pm",
+        "event": "Tr-Tr Mon SSx Mer",
+        "description": "Transiting Moon Semisextile Transiting Mercury",
+        "interpretation": ""
+      },
+      {
+        "time": "4:01 pm",
+        "event": "Tr-Tr Mon SSq Sun",
+        "description": "Transiting Moon SemiSquare Transiting Sun",
+        "interpretation": "What we feel and what we think we should do can be at odds with one another temporarily. There can be discontent or indecisiveness. We could be feeling out of sorts. Tensions will pass."
+      },
+      {
+        "time": "3:52 pm",
+        "event": "Tr-Tr Sun Sxt Mar",
+        "description": "Transiting Sun Sextile Transiting Mars",
+        "interpretation": "We can be furthering our goals and desires without apology. A time for getting ahead, taking action, and solving problems, and some healthy self-centeredness. Competition. Taking the lead."
+      },
+      {
+        "time": "6:50 pm",
+        "event": "Tr-Tr Mer Cpl Sat",
+        "description": "Transiting Mercury ContraParallel Transiting Saturn",
+        "interpretation": ""
+      }
+    ]
+  },
+  {
+    "date": "Sep 15 2026",
+    "moon_sign_events": [
+      {
+        "time": "0:00 am",
+        "event": "Moon in Scorpio",
+        "description": "The Moon in Scorpio",
+        "interpretation": "Contemplate the deeper things in life. Avoid unnecessary conflict, but if it's going to improve your life, go ahead and make waves. Tune in to your intuition. This is a good time for investigations, looking into a matter further, doing research, connecting to others with a shared passion, solving a mystery, and devising a strategy. When the Moon in Scorpio is strained, we may take our passions too far."
+      }
+    ],
+    "void_of_course": [
+      {
+        "time": "11:29 pm",
+        "event": "Moon goes void of course",
+        "description": "",
+        "interpretation": ""
+      }
+    ],
+    "lunations": [],
+    "stations": [],
+    "aspects": [
+      {
+        "time": "0:36 am",
+        "event": "Tr-Tr Mon Tri Cer",
+        "description": "Transiting Moon Trine Transiting Ceres",
+        "interpretation": "We can be feeling pleasantly attached to, or supported by, our loved ones or family. We are seeking out security, nurturing, and warmth, and we are more likely to express these things towards others."
+      },
+      {
+        "time": "3:01 am",
+        "event": "Tr-Tr Mon Qnx Sat",
+        "description": "Transiting Moon Quincunx Transiting Saturn",
+        "interpretation": "This is a brief period of uncertainty, guilt, fear of not performing well, fear of rejection, a feeling that others will not support or fulfill our needs/desires, or a sense that something can't be achieved. Patience is a virtue right now. Otherwise we might succumb to feelings of frustration and sadness.  All good things come to those who wait."
+      },
+      {
+        "time": "6:54 am",
+        "event": "Tr-Tr Mon Cpl Ura",
+        "description": "Transiting Moon ContraParallel Transiting Uranus",
+        "interpretation": ""
+      },
+      {
+        "time": "10:35 am",
+        "event": "Tr-Tr Mon Sqr Jup",
+        "description": "Transiting Moon Square Transiting Jupiter",
+        "interpretation": "We may not be very realistic right now - there can be some exaggeration. Minor annoyances are possible now. Contrariness or disagreements. This is not an ideal time for publicity, promotion, or legal matters. We can experience injustices. We are less inclined to consider the consequences of over-eating, over-drinking, or overdoing in general. This is a time to show some restraint. Grandiosity is not appreciated right now, and excess doesn't go over well either. With a little self-control we can learn about what truly makes us happy."
+      },
+      {
+        "time": "1:41 pm",
+        "event": "Tr-Tr Mon Sqq Nep",
+        "description": "Transiting Moon SesquiSquare Transiting Neptune",
+        "interpretation": "If we are not in touch with our need for inspiration, beauty, compassion, connection to something otherworldly, or our spirituality, we could feel out of sorts right now. Relaxing, listening to music, getting close to nature, or taking a break may resolve this."
+      },
+      {
+        "time": "2:21 pm",
+        "event": "Tr-Tr Mon Cpl Mar",
+        "description": "Transiting Moon ContraParallel Transiting Mars",
+        "interpretation": ""
+      },
+      {
+        "time": "3:30 pm",
+        "event": "Tr-Tr Mon Qnx Pal",
+        "description": "Transiting Moon Quincunx Transiting Pallas",
+        "interpretation": ""
+      },
+      {
+        "time": "6:55 pm",
+        "event": "Tr-Tr Mon Cpl Cer",
+        "description": "Transiting Moon ContraParallel Transiting Ceres",
+        "interpretation": ""
+      },
+      {
+        "time": "10:30 pm",
+        "event": "Tr-Tr Mon Tri Mar",
+        "description": "Transiting Moon Trine Transiting Mars",
+        "interpretation": "We are more courageous and able to take the lead. We are in tune with our natural desires and instincts. We express our feelings honestly. We are independent, resourceful, and brave."
+      },
+      {
+        "time": "11:18 pm",
+        "event": "Tr-Tr Mon Pll Plu",
+        "description": "Transiting Moon Parallel Transiting Pluto",
+        "interpretation": ""
+      },
+      {
+        "time": "11:29 pm",
+        "event": "Tr-Tr Mon Sxt Sun",
+        "description": "Transiting Moon Sextile Transiting Sun",
+        "interpretation": "This is a harmonious time. People are more cooperative and supportive than usual. Things seem to flow more easily, and confidence is natural."
+      },
+      {
+        "time": "6:25 am",
+        "event": "Tr-Tr Sun Cpl Mer",
+        "description": "Transiting Sun ContraParallel Transiting Mercury",
+        "interpretation": ""
+      },
+      {
+        "time": "2:34 pm",
+        "event": "Tr-Tr Ven Sqr Plu",
+        "description": "Transiting Venus Square Transiting Pluto",
+        "interpretation": "Perception of value is skewed by fear or desire. There can be envy, jealousy, and manipulation now.  Issues of over- attachment can arise."
+      },
+      {
+        "time": "2:45 pm",
+        "event": "Tr-Tr Ven Qnx Nep",
+        "description": "Transiting Venus Quincunx Transiting Neptune",
+        "interpretation": "We may be overcompensating by going overboard with help or support of others, or there could be missed opportunities due to insecurity in our relationships. We are more impressionable and should put off decision making for a more confident time."
+      },
+      {
+        "time": "9:46 pm",
+        "event": "Tr-Tr Nep Sxt Plu",
+        "description": "Transiting Neptune Sextile Transiting Pluto",
+        "interpretation": "You are challenged to shift your focus of power from external sources such as money and position in society, to a deep sense of personal strength."
+      }
+    ]
+  },
+  {
+    "date": "Sep 16 2026",
+    "moon_sign_events": [
+      {
+        "time": "12:40 pm",
+        "event": "Moon enters Sagittarius",
+        "description": "The Moon in Sagittarius",
+        "interpretation": "This is a time for expanding our mind and experience, exploring new pathways, aiming high, and broadening our horizons. It's not as strong for detail or routine work. There can be restlessness, courage, and spontaneity now."
+      }
+    ],
+    "void_of_course": [],
+    "lunations": [],
+    "stations": [
+      {
+        "time": "9:09 pm",
+        "event": "Tr Jun D",
+        "description": "Transiting Juno Stationary",
+        "interpretation": ""
+      }
+    ],
+    "aspects": [
+      {
+        "time": "0:59 am",
+        "event": "Tr-Tr Mon SSq Mer",
+        "description": "Transiting Moon SemiSquare Transiting Mercury",
+        "interpretation": "What feels right clashes with logic today. What people are saying may be a misrepresentation of their true feelings/emotions. It's better to think before we speak, or misunderstandings can follow."
+      },
+      {
+        "time": "4:08 am",
+        "event": "Tr-Tr Mon Sxt Jun",
+        "description": "Transiting Moon Sextile Transiting Juno",
+        "interpretation": "We can gain strength through others or through our relationships, and we are especially comfortable in one-on-one situations."
+      },
+      {
+        "time": "4:51 am",
+        "event": "Tr-Tr Mon Qnx Ves",
+        "description": "Transiting Moon Quincunx Transiting Vesta",
+        "interpretation": ""
+      },
+      {
+        "time": "6:33 am",
+        "event": "Tr-Tr Mon Sqq Cer",
+        "description": "Transiting Moon SesquiSquare Transiting Ceres",
+        "interpretation": "There may be difficulties giving or receiving affection, care, concern, and nurturing."
+      },
+      {
+        "time": "8:05 am",
+        "event": "Tr-Tr Mon Sqq Sat",
+        "description": "Transiting Moon SesquiSquare Transiting Saturn",
+        "interpretation": "We could feel burdened, restricted, or limited during this brief influence. We could be feeling a little down on ourselves, excluded, or lonely. There can be some awkwardness or stiffness and difficulty showing affection and feelings. Patience is a virtue right now; otherwise we might succumb to feelings of frustration and sadness.  All good things come to those who wait."
+      },
+      {
+        "time": "11:47 am",
+        "event": "Tr-Tr Mon Sqr Nod",
+        "description": "Transiting Moon Square Transiting North Node",
+        "interpretation": "This is the trigger for out with the old and in with the new. We could feel at odds with others on an emotional level. Public relations are not as favorable now. Plans could need reworking. We could feel temporarily out of the loop."
+      },
+      {
+        "time": "12:40 pm",
+        "event": "Tr-Tr Mon Cnj Sag",
+        "description": "Transiting Moon Entering Sagittarius",
+        "interpretation": "This is a time for expanding our mind and experience, exploring new pathways, aiming high, and broadening our horizons. It's not as strong for detail or routine work. There can be restlessness, courage, and spontaneity now."
+      },
+      {
+        "time": "12:46 pm",
+        "event": "Tr-Tr Mon Qnx Chi",
+        "description": "Transiting Moon Quincunx Transiting Chiron",
+        "interpretation": "Hurt feelings may be opportunities for healing. Now is the time for building bridges, not burning them."
+      },
+      {
+        "time": "7:07 pm",
+        "event": "Tr-Tr Mon Tri Nep",
+        "description": "Transiting Moon Trine Transiting Neptune",
+        "interpretation": "This is a feel-good time if we allow ourselves to relax and tune into the subtle aspects of life - art, nature, beauty, dreams, and spiritual realms. We absorb things easily, our senses are in good form, and we more naturally accept things and people as they are. There is no need to look for definite answers right now."
+      },
+      {
+        "time": "7:09 pm",
+        "event": "Tr-Tr Mon Sxt Plu",
+        "description": "Transiting Moon Sextile Transiting Pluto",
+        "interpretation": "This can be a good time for getting loans, for taking care of business, and for dealing with money matters. It's also good for getting in touch with feelings and managing them effectively. There can be a boost to our intimate life, creative impulses, and self-understanding. Events occurring now might involve some kind of karmic repayment or benefit. We could discover new information, hidden information, or a lost item. This is a time for recycling - seeing new uses for old items. True feelings come to the surface."
+      },
+      {
+        "time": "8:29 pm",
+        "event": "Tr-Tr Mon SSx Ven",
+        "description": "Transiting Moon Semisextile Transiting Venus",
+        "interpretation": ""
+      },
+      {
+        "time": "8:31 pm",
+        "event": "Tr-Tr Mon Sqq Pal",
+        "description": "Transiting Moon SesquiSquare Transiting Pallas",
+        "interpretation": "We may be concerned about what others are thinking of us now, and can be sensitive to negativity and criticism, or what we perceive as such. We might not understand one another, and can be at odds with one another on a mental or intellectual level. Someone's belief or idea can make us feel insecure or out of sorts, or otherwise rub us the wrong way."
+      },
+      {
+        "time": "11:57 pm",
+        "event": "Tr-Tr Mon Opp Ura",
+        "description": "Transiting Moon Opposition Transiting Uranus",
+        "interpretation": "Life may be a little tense right now. Avoid willful behavior if the situation doesn't call for it. Remain open to new possibilities and all will be revealed. There could be a surprising revelation or turning point. Unpredictable responses from others (and ourselves). Emotional eruptions are possible. Not a good time to make permanent decisions, particularly about relationships."
+      },
+      {
+        "time": "7:39 am",
+        "event": "Tr-Tr Sun Pll Sat",
+        "description": "Transiting Sun Parallel Transiting Saturn",
+        "interpretation": ""
+      }
+    ]
+  },
+  {
+    "date": "Sep 17 2026",
+    "moon_sign_events": [
+      {
+        "time": "0:00 am",
+        "event": "Moon in Sagittarius",
+        "description": "The Moon in Sagittarius",
+        "interpretation": "This is a time for expanding our mind and experience, exploring new pathways, aiming high, and broadening our horizons. It's not as strong for detail or routine work. There can be restlessness, courage, and spontaneity now."
+      }
+    ],
+    "void_of_course": [],
+    "lunations": [],
+    "stations": [],
+    "aspects": [
+      {
+        "time": "5:46 am",
+        "event": "Tr-Tr Mon Sqq Mar",
+        "description": "Transiting Moon SesquiSquare Transiting Mars",
+        "interpretation": "We can overreact and exhibit impatience. However, this can also be a time of self-motivation."
+      },
+      {
+        "time": "9:56 am",
+        "event": "Tr-Tr Mon SSq Jun",
+        "description": "Transiting Moon SemiSquare Transiting Juno",
+        "interpretation": "There may be clinging or controlling behavior if we are driven by our fears. Hypersensitivity and moodiness are possible. Tread lightly with tricky emotional issues."
+      },
+      {
+        "time": "10:15 am",
+        "event": "Tr-Tr Mon Sqq Ves",
+        "description": "Transiting Moon SesquiSquare Transiting Vesta",
+        "interpretation": "We can be a little stiff with our emotions, and we can be distracted from our work or focus. There can be difficulty expressing tenderness, concern, or care."
+      },
+      {
+        "time": "11:14 am",
+        "event": "Tr-Tr Mon Sxt Mer",
+        "description": "Transiting Moon Sextile Transiting Mercury",
+        "interpretation": "Ideas flow freely. We express feelings with clarity and thoughts with sensitivity. An excellent time for cooperative projects. A good time for taking tests, writing, promoting, public speaking, and studying."
+      },
+      {
+        "time": "1:10 pm",
+        "event": "Tr-Tr Mon Qnx Cer",
+        "description": "Transiting Moon Quincunx Transiting Ceres",
+        "interpretation": ""
+      },
+      {
+        "time": "1:46 pm",
+        "event": "Tr-Tr Mon Tri Sat",
+        "description": "Transiting Moon Trine Transiting Saturn",
+        "interpretation": "An auspicious time for any project demanding endurance or tolerance. Also good for establishing new habits and rituals."
+      },
+      {
+        "time": "6:38 pm",
+        "event": "Tr-Tr Mon Sqq Chi",
+        "description": "Transiting Moon SesquiSquare Transiting Chiron",
+        "interpretation": "Hurt feelings may be opportunities for healing. Now is the time for building bridges, not burning them."
+      },
+      {
+        "time": "11:00 pm",
+        "event": "Tr-Tr Mon Tri Jup",
+        "description": "Transiting Moon Trine Transiting Jupiter",
+        "interpretation": "We want to do good and to honor our inner code. We don't sweat the small stuff right now. We are generous with our energy, time, and money. A great time to take up new feel-good opportunities. Show your confidence and optimism and reap the rewards."
+      },
+      {
+        "time": "9:53 pm",
+        "event": "Tr-Tr Chi Cnj Ari",
+        "description": "Transiting Chiron Entering Aries",
+        "interpretation": "Now you can become a pioneer in a way which will be of service to humanity."
+      }
+    ]
+  },
+  {
+    "date": "Sep 18 2026",
+    "moon_sign_events": [
+      {
+        "time": "0:00 am",
+        "event": "Moon in Sagittarius",
+        "description": "The Moon in Sagittarius",
+        "interpretation": "This is a time for expanding our mind and experience, exploring new pathways, aiming high, and broadening our horizons. It's not as strong for detail or routine work. There can be restlessness, courage, and spontaneity now."
+      }
+    ],
+    "void_of_course": [
+      {
+        "time": "4:43 pm",
+        "event": "Moon goes void of course",
+        "description": "",
+        "interpretation": ""
+      }
+    ],
+    "lunations": [
+      {
+        "time": "4:43 pm",
+        "event": "First Quarter at 25\u00b0Sg57'",
+        "description": "",
+        "interpretation": ""
+      }
+    ],
+    "stations": [
+      {
+        "time": "4:32 pm",
+        "event": "Tr Nod D",
+        "description": "Transiting North Node Stationary",
+        "interpretation": ""
+      }
+    ],
+    "aspects": [
+      {
+        "time": "1:09 am",
+        "event": "Tr-Tr Mon SSq Plu",
+        "description": "Transiting Moon SemiSquare Transiting Pluto",
+        "interpretation": "Deeper feelings emerge suddenly, and possibly in a disruptive way. We may be over-reacting or going to extremes. Wait for the tension to subside before taking action."
+      },
+      {
+        "time": "2:02 am",
+        "event": "Tr-Tr Mon Tri Pal",
+        "description": "Transiting Moon Trine Transiting Pallas",
+        "interpretation": "There is a good ability to successfully combine logic and intuition, and to understand problems taking into account the human element. There is sensitivity to people's issues now. Cooperation. Effective, sensitive decision making."
+      },
+      {
+        "time": "3:52 am",
+        "event": "Tr-Tr Mon SSq Ven",
+        "description": "Transiting Moon SemiSquare Transiting Venus",
+        "interpretation": "Relationships may be subtly strained or unsettled. Try to relax and not obsess. Restlessness can lead to poor choices or overindulgence. Show restraint and reap the rewards."
+      },
+      {
+        "time": "1:34 pm",
+        "event": "Tr-Tr Mon Qnx Mar",
+        "description": "Transiting Moon Quincunx Transiting Mars",
+        "interpretation": "There can be tension and feelings of restlessness or impatience, as what we want to do may not feel perfectly right, or we may be lacking the courage. Avoid taking it out on the wrong things or people."
+      },
+      {
+        "time": "4:02 pm",
+        "event": "Tr-Tr Mon Tri Ves",
+        "description": "Transiting Moon Trine Transiting Vesta",
+        "interpretation": "We can derive a nice feeling of satisfaction and fulfillment from tending to our responsibilities, work, or other commitment. We are more able to make sacrifices or put our emotions aside in order to get something important done. Alternatively, we can bring more sensitivity to our practical affairs. This can be a good time to commit fully to something - especially health and healing matters. It's also a strong time for taking care of domestic matters."
+      },
+      {
+        "time": "4:10 pm",
+        "event": "Tr-Tr Mon SSx Jun",
+        "description": "Transiting Moon Semisextile Transiting Juno",
+        "interpretation": ""
+      },
+      {
+        "time": "4:43 pm",
+        "event": "Tr-Tr Mon Sqr Sun",
+        "description": "Transiting Moon Square Transiting Sun",
+        "interpretation": "This is a time for noticing discrepancies. Self-expression doesn't flow well, and conflicts can be stirred. There can be some resistance and irritability. This can be a time when we're compelled to take action, make changes, and solve problems."
+      },
+      {
+        "time": "11:54 pm",
+        "event": "Tr-Tr Mon Sxt Nod",
+        "description": "Transiting Moon Sextile Transiting North Node",
+        "interpretation": "A good time for dealing with the public, for making connections, and for taking positive steps towards a personal or professional goal. You are able to make changes. This is a feel-good time for embracing new opportunities."
+      },
+      {
+        "time": "9:38 am",
+        "event": "Tr-Tr Sun Qnx Ves",
+        "description": "Transiting Sun Quincunx Transiting Vesta",
+        "interpretation": ""
+      },
+      {
+        "time": "9:54 am",
+        "event": "Tr-Tr Sun Tri Jun",
+        "description": "Transiting Sun Trine Transiting Juno",
+        "interpretation": "We are taking pride in our relationships. It's a good time to strengthen and support others, and to build trust. We tend to instinctively know how to behave in ways that boost others' confidence. This can be a pleasantly ambitious period."
+      },
+      {
+        "time": "5:15 am",
+        "event": "Tr-Tr Mer Sqr Cer",
+        "description": "Transiting Mercury Square Transiting Ceres",
+        "interpretation": "We may be trying to get our feelings across, or attempting to explain how we feel, but we have difficulty doing so. Disagreements or misunderstandings are possible, as it is difficult to understand people's intentions. There may be stress or extra activity in the household."
+      },
+      {
+        "time": "6:00 am",
+        "event": "Tr-Tr Mer Opp Sat",
+        "description": "Transiting Mercury Opposition Transiting Saturn",
+        "interpretation": "Critical thinking that can skew to overly negative, rigid, nit-picky, or narrow. Communications are guarded and unnatural, not flowing. There can be delays or frustrations getting from point A to point B, and getting our message across. A time for editing. Our views or ideas may be challenged or blocked."
+      },
+      {
+        "time": "8:30 am",
+        "event": "Tr-Tr Sat Sqr Cer",
+        "description": "Transiting Saturn Square Transiting Ceres",
+        "interpretation": "There can be the need to organize, structure, or limit our family activities, emotions, or care of others at this time, and this can feel like a burden to some degree. Or, there can be a strong sense of duty associated with loved ones or caring for people in our lives, perhaps without a feeling that we are appreciated for our efforts. Decisions about family, health, or nutrition may need to be made now."
+      },
+      {
+        "time": "8:19 am",
+        "event": "Tr-Tr Chi Cpl Nod",
+        "description": "Transiting Chiron ContraParallel Transiting North Node",
+        "interpretation": ""
+      },
+      {
+        "time": "8:13 am",
+        "event": "Tr-Tr Ves Sqr Jun",
+        "description": "Transiting Vesta Square Transiting Juno",
+        "interpretation": ""
+      }
+    ]
+  },
+  {
+    "date": "Sep 19 2026",
+    "moon_sign_events": [
+      {
+        "time": "0:54 am",
+        "event": "Moon enters Capricorn",
+        "description": "The Moon in Capricorn",
+        "interpretation": "Consolidate. Pay attention to the foundations of life. Repair and restructure. Attend to financial or business matters. Make solid plans and get organized."
+      }
+    ],
+    "void_of_course": [],
+    "lunations": [],
+    "stations": [],
+    "aspects": [
+      {
+        "time": "0:49 am",
+        "event": "Tr-Tr Mon Tri Chi",
+        "description": "Transiting Moon Trine Transiting Chiron",
+        "interpretation": "There can be new or easy understanding of our feelings and impressions now. We have a greater understanding of, or compassion for, others' plights. We are more emotionally present and involved. Synchronicity is a feature of our daily life right now. Tune in and enjoy the spiritual signposts."
+      },
+      {
+        "time": "0:54 am",
+        "event": "Tr-Tr Mon Cnj Cap",
+        "description": "Transiting Moon Entering Capricorn",
+        "interpretation": "Consolidate. Pay attention to the foundations of life. Repair and restructure. Attend to financial or business matters. Make solid plans and get organized."
+      },
+      {
+        "time": "5:49 am",
+        "event": "Tr-Tr Mon Sqq Jup",
+        "description": "Transiting Moon SesquiSquare Transiting Jupiter",
+        "interpretation": "Time to show some restraint. Grandiosity is not appealing. Neither is excess. Practice self-control. Self-indulgence is more likely now. We're not as inclined to consider the consequences of over-eating, over-drinking, or overdoing in general. We may be acting in a haughty manner."
+      },
+      {
+        "time": "7:20 am",
+        "event": "Tr-Tr Mon Sqr Nep",
+        "description": "Transiting Moon Square Transiting Neptune",
+        "interpretation": "There can be confusion, misunderstanding, or some level of chaos and uncertainty. Avoid money transactions or new business initiatives - it can be difficult to think clearly. There may be deception or self-deception to deal with. We might have an emotional urge to escape. Feeling out of sorts and don't know why? Relax and listen to some inspirational music. Honor your need to feed your more refined or spiritual side, and the difficult feelings will soon fade away."
+      },
+      {
+        "time": "7:26 am",
+        "event": "Tr-Tr Mon SSx Plu",
+        "description": "Transiting Moon Semisextile Transiting Pluto",
+        "interpretation": ""
+      },
+      {
+        "time": "11:27 am",
+        "event": "Tr-Tr Mon Sxt Ven",
+        "description": "Transiting Moon Sextile Transiting Venus",
+        "interpretation": "We are less inhibited and more willing to indulge ourselves. Love and romance can be favorable. Decorating, beauty treatments, the arts, creative pursuits, parties, dates, and recreation are generally favored now. Smile, laugh, and enjoy!"
+      },
+      {
+        "time": "12:22 pm",
+        "event": "Tr-Tr Mon Qnx Ura",
+        "description": "Transiting Moon Quincunx Transiting Uranus",
+        "interpretation": "There can be vague insecurity stimulated now, as we feel a little out of control faced with unpredictable events or feelings. There may be a conflict between a desire for familiarity and comfort, and the need for a change or excitement."
+      },
+      {
+        "time": "12:47 pm",
+        "event": "Tr-Tr Mer Sqq Nod",
+        "description": "Transiting Mercury SesquiSquare Transiting North Node",
+        "interpretation": "The best made plans go awry right now. Have patience because you are learning new skills. All good things come to those who wait."
+      }
+    ]
+  },
+  {
+    "date": "Sep 20 2026",
+    "moon_sign_events": [
+      {
+        "time": "0:00 am",
+        "event": "Moon in Capricorn",
+        "description": "The Moon in Capricorn",
+        "interpretation": "Consolidate. Pay attention to the foundations of life. Repair and restructure. Attend to financial or business matters. Make solid plans and get organized."
+      }
+    ],
+    "void_of_course": [],
+    "lunations": [],
+    "stations": [],
+    "aspects": [
+      {
+        "time": "1:59 am",
+        "event": "Tr-Tr Mon Sqr Sat",
+        "description": "Transiting Moon Square Transiting Saturn",
+        "interpretation": "We could feel burdened, restricted, or limited during this brief influence. We could be feeling a little down on ourselves, excluded, or lonely. There can be some awkwardness or stiffness and difficulty showing affection and feelings. It's important to be patient now."
+      },
+      {
+        "time": "3:19 am",
+        "event": "Tr-Tr Mon Opp Cer",
+        "description": "Transiting Moon Opposition Transiting Ceres",
+        "interpretation": "We may feel unsupported or uncomfortable about supporting or nurturing others. Alternatively, we might be frustrated dealing with neediness in others. We could be insecure, fearful of rejection or separation. Positively, we might discover our own needs, fears, and comfort zones."
+      },
+      {
+        "time": "6:16 am",
+        "event": "Tr-Tr Mon SSq Nod",
+        "description": "Transiting Moon SemiSquare Transiting North Node",
+        "interpretation": "There may be the need to pause to adjust things before moving plans forward. We could feel at odds with others on an emotional level. Public relations are not as favorable now."
+      },
+      {
+        "time": "8:47 am",
+        "event": "Tr-Tr Mon Sqr Mer",
+        "description": "Transiting Moon Square Transiting Mercury",
+        "interpretation": "We may not be communicating with sensitivity. What we communicate could misrepresent what we truly feel. There could be troubles with mechanics, computers, transportation, and miscommunications. We may not be understanding one another. We can be a little fickle and not especially objective. Think before you speak. Otherwise, misunderstandings are likely to occur. Count to ten if you're feeling annoyed."
+      },
+      {
+        "time": "12:36 pm",
+        "event": "Tr-Tr Mon Qnx Jup",
+        "description": "Transiting Moon Quincunx Transiting Jupiter",
+        "interpretation": "Watch for moody decisions and excesses now."
+      },
+      {
+        "time": "1:28 pm",
+        "event": "Tr-Tr Mon Sqr Pal",
+        "description": "Transiting Moon Square Transiting Pallas",
+        "interpretation": "Our judgment may be temporarily impaired by excessive emotions, or emotional bias. We may be experiencing a conundrum. Someone's belief or idea can make us feel insecure or out of sorts, or otherwise rub us the wrong way. There can be sensitivity to others' opinions experienced now."
+      },
+      {
+        "time": "6:34 pm",
+        "event": "Tr-Tr Mon Sqq Ura",
+        "description": "Transiting Moon SesquiSquare Transiting Uranus",
+        "interpretation": "We can easily find ourselves all wound up and nervous. Unpredictable responses from others (and ourselves). Emotional eruptions are possible. Not a good time to make permanent decisions, particularly about relationships and family/domestic matters."
+      },
+      {
+        "time": "9:33 am",
+        "event": "Tr-Tr Sun Cpl Ves",
+        "description": "Transiting Sun ContraParallel Transiting Vesta",
+        "interpretation": ""
+      },
+      {
+        "time": "11:48 am",
+        "event": "Tr-Tr Ven Qnx Ura",
+        "description": "Transiting Venus Quincunx Transiting Uranus",
+        "interpretation": "An exciting creative person or project suddenly comes to light creating a little tension. Your path is unpredictable. Go with the flow."
+      },
+      {
+        "time": "3:27 am",
+        "event": "Tr-Tr Mar Sqr Ves",
+        "description": "Transiting Mars Square Transiting Vesta",
+        "interpretation": "Energy and discipline clash now, making it difficult to get what we want to accomplish done, or leading to overwork. Issues of commitment and loyalty in our relationships or with projects may be inflamed now."
+      },
+      {
+        "time": "6:13 pm",
+        "event": "Tr-Tr Mar Opp Jun",
+        "description": "Transiting Mars Opposition Transiting Juno",
+        "interpretation": "Confrontations can be messy now as we tend to assert ourselves defensively or explosively. We should make extra effort to respect and validate others when expressing what we need and want."
+      }
+    ]
+  },
+  {
+    "date": "Sep 21 2026",
+    "moon_sign_events": [
+      {
+        "time": "1:14 pm",
+        "event": "Moon enters Aquarius",
+        "description": "The Moon in Aquarius",
+        "interpretation": "This is generally a good time for social pursuits, group projects, trying something new, joining a group, and networking. A change of pace refreshes. Hobbies, clubs, and groups may demand attention now. It is time to build networks and cooperate. Humanitarian pursuits are highlighted."
+      }
+    ],
+    "void_of_course": [
+      {
+        "time": "10:31 am",
+        "event": "Moon goes void of course",
+        "description": "",
+        "interpretation": ""
+      }
+    ],
+    "lunations": [],
+    "stations": [],
+    "aspects": [
+      {
+        "time": "3:35 am",
+        "event": "Tr-Tr Mon Sqr Ves",
+        "description": "Transiting Moon Square Transiting Vesta",
+        "interpretation": "We can be a little stiff with our emotions, and we can be distracted from our work or focus. There can be difficulty expressing tenderness, concern, or care."
+      },
+      {
+        "time": "4:44 am",
+        "event": "Tr-Tr Mon Cnj Jun",
+        "description": "Transiting Moon Conjunction Transiting Juno",
+        "interpretation": "The desire or need to connect with someone is strong now. We are sensitive to what others are thinking, needing, and feeling."
+      },
+      {
+        "time": "5:16 am",
+        "event": "Tr-Tr Mon Opp Mar",
+        "description": "Transiting Moon Opposition Transiting Mars",
+        "interpretation": "We may be acting on impulse now, and if we've been holding back our feelings, they might burst up and out now. There can be touchiness, we can be temperamental, but also courageous. There could be domestic conflict or a conflict within ourselves (whether or not to express something, or to act upon a desire)."
+      },
+      {
+        "time": "6:34 am",
+        "event": "Tr-Tr Mon Pll Plu",
+        "description": "Transiting Moon Parallel Transiting Pluto",
+        "interpretation": ""
+      },
+      {
+        "time": "10:31 am",
+        "event": "Tr-Tr Mon Tri Sun",
+        "description": "Transiting Moon Trine Transiting Sun",
+        "interpretation": "There is a nice feeling of harmony and a cooperative feel to this time. Better decision making. We represent ourselves well now. It's easier to attract support, favorable responses, and positive experiences. We are less fearful and less defensive. This is a harmonious time."
+      },
+      {
+        "time": "10:38 am",
+        "event": "Tr-Tr Mon Cpl Cer",
+        "description": "Transiting Moon ContraParallel Transiting Ceres",
+        "interpretation": ""
+      },
+      {
+        "time": "12:22 pm",
+        "event": "Tr-Tr Mon SSx Nod",
+        "description": "Transiting Moon Semisextile Transiting North Node",
+        "interpretation": ""
+      },
+      {
+        "time": "12:58 pm",
+        "event": "Tr-Tr Mon Sqr Chi",
+        "description": "Transiting Moon Square Transiting Chiron",
+        "interpretation": "We may have some difficulty letting go of hurt feelings or resentments. We can be sensitive to what others think of us, and decisions made now may not reflect our hearts, and can be regrettable later on. We might take things the wrong way due to sensitivity. We may not make efforts to be understood. Hurt feelings are opportunities for healing. Now is the time for building bridges, not burning them."
+      },
+      {
+        "time": "1:14 pm",
+        "event": "Tr-Tr Mon Cnj Aqu",
+        "description": "Transiting Moon Entering Aquarius",
+        "interpretation": "This is generally a good time for social pursuits, group projects, trying something new, joining a group, and networking. A change of pace refreshes. Hobbies, clubs, and groups may demand attention now. It is time to build networks and cooperate. Humanitarian pursuits are highlighted."
+      },
+      {
+        "time": "7:23 pm",
+        "event": "Tr-Tr Mon Sxt Nep",
+        "description": "Transiting Moon Sextile Transiting Neptune",
+        "interpretation": "This is a feel-good time if we allow ourselves to relax and tune into the subtle aspects of life - art, nature, beauty, dreams, and spiritual realms. We absorb things easily, our senses are in good form, and we more naturally accept things and people as they are. There is no need to look for definite answers right now."
+      },
+      {
+        "time": "7:24 pm",
+        "event": "Tr-Tr Mon Cpl Mar",
+        "description": "Transiting Moon ContraParallel Transiting Mars",
+        "interpretation": ""
+      },
+      {
+        "time": "7:34 pm",
+        "event": "Tr-Tr Mon Cnj Plu",
+        "description": "Transiting Moon Conjunction Transiting Pluto",
+        "interpretation": "Deeper feelings emerge. Emotional extremes can be experienced now. This can be a time that we crave or recognize the need for an overhaul - a deep, lasting change."
+      },
+      {
+        "time": "11:20 pm",
+        "event": "Tr-Tr Mon Cpl Ura",
+        "description": "Transiting Moon ContraParallel Transiting Uranus",
+        "interpretation": ""
+      },
+      {
+        "time": "5:23 pm",
+        "event": "Tr-Tr Mer Opp Pal",
+        "description": "Transiting Mercury Opposition Transiting Pallas",
+        "interpretation": "There can be mental tension and disorganization, making this a difficult time to get a clear message across. We may be dealing with failure to see eye-to-eye with others or people failing to listen to one another."
+      },
+      {
+        "time": "6:50 pm",
+        "event": "Tr-Tr Mer Sxt Jup",
+        "description": "Transiting Mercury Sextile Transiting Jupiter",
+        "interpretation": "Good judgment. Taking in the full picture. Speculative thought. Positive thinking. Interest in learning. Teaching."
+      },
+      {
+        "time": "1:01 pm",
+        "event": "Tr-Tr Jup Tri Pal",
+        "description": "Transiting Jupiter Trine Transiting Pallas",
+        "interpretation": "We are optimistic, helpful, and ready to share words of wisdom. This is a strong influence for big picture planning and thinking."
+      }
+    ]
+  },
+  {
+    "date": "Sep 22 2026",
+    "moon_sign_events": [
+      {
+        "time": "0:00 am",
+        "event": "Moon in Aquarius",
+        "description": "The Moon in Aquarius",
+        "interpretation": "This is generally a good time for social pursuits, group projects, trying something new, joining a group, and networking. A change of pace refreshes. Hobbies, clubs, and groups may demand attention now. It is time to build networks and cooperate. Humanitarian pursuits are highlighted."
+      }
+    ],
+    "void_of_course": [],
+    "lunations": [],
+    "stations": [],
+    "aspects": [
+      {
+        "time": "0:23 am",
+        "event": "Tr-Tr Mon Tri Ura",
+        "description": "Transiting Moon Trine Transiting Uranus",
+        "interpretation": "We are open to new ideas. A break in the routine is pleasing now. We could be experimenting with new ideas or feelings. There can be chance meetings, events that occur that open our minds or our awareness."
+      },
+      {
+        "time": "1:39 am",
+        "event": "Tr-Tr Mon Sqr Ven",
+        "description": "Transiting Moon Square Transiting Venus",
+        "interpretation": "Romantic matters can be unsettled, or we can be a little insecure in our relationships. It can be difficult to show restraint. An indulgent, moody time. Hypersensitivity."
+      },
+      {
+        "time": "8:47 am",
+        "event": "Tr-Tr Mon Pll Ven",
+        "description": "Transiting Moon Parallel Transiting Venus",
+        "interpretation": ""
+      },
+      {
+        "time": "1:16 pm",
+        "event": "Tr-Tr Mon Sxt Sat",
+        "description": "Transiting Moon Sextile Transiting Saturn",
+        "interpretation": "An auspicious time for any project demanding endurance or tolerance. Also good for establishing new habits and rituals."
+      },
+      {
+        "time": "4:22 pm",
+        "event": "Tr-Tr Mon Qnx Cer",
+        "description": "Transiting Moon Quincunx Transiting Ceres",
+        "interpretation": ""
+      },
+      {
+        "time": "6:33 pm",
+        "event": "Tr-Tr Mon Sqq Sun",
+        "description": "Transiting Moon SesquiSquare Transiting Sun",
+        "interpretation": "What we feel and what we think we should do can be at odds with one another temporarily. There can be discontent or indecisiveness. We could be feeling out of sorts. Tensions will pass."
+      },
+      {
+        "time": "11:33 pm",
+        "event": "Tr-Tr Mon Sxt Pal",
+        "description": "Transiting Moon Sextile Transiting Pallas",
+        "interpretation": "There is a good ability to successfully combine logic and intuition, and to understand problems taking into account the human element. There is sensitivity to people's issues now. Cooperation. Effective, sensitive decision making."
+      },
+      {
+        "time": "9:59 am",
+        "event": "Tr-Tr Sun Qnx Nod",
+        "description": "Transiting Sun Quincunx Transiting North Node",
+        "interpretation": "We could have a hard time juggling our personal goals and others' needs, feeling as if we must choose one or the other."
+      },
+      {
+        "time": "3:28 pm",
+        "event": "Tr-Tr Sun Cpl Nep",
+        "description": "Transiting Sun ContraParallel Transiting Neptune",
+        "interpretation": ""
+      },
+      {
+        "time": "3:43 pm",
+        "event": "Tr-Tr Sun Qnx Chi",
+        "description": "Transiting Sun Quincunx Transiting Chiron",
+        "interpretation": "We could misjudge our capabilities now and might end up pushing ourselves or others to a point where we feel hurt, rejected, or criticized. Or, we might struggle with a situation where we may need to humble ourselves. People or circumstances may seem to be exposing or playing on our vulnerabilities."
+      },
+      {
+        "time": "8:04 pm",
+        "event": "Tr-Tr Sun Cnj Lib",
+        "description": "Transiting Sun Entering Libra",
+        "interpretation": "Time for diplomacy. Seek peace, harmony and beauty. Socialise with loved ones."
+      },
+      {
+        "time": "4:23 pm",
+        "event": "Tr-Tr Jup Sqq Nep",
+        "description": "Transiting Jupiter SesquiSquare Transiting Neptune",
+        "interpretation": "This is a time of heightened intuition. Explore the spiritual or artistic side of life. Move beyond prejudice into acceptance of yourself and others."
+      },
+      {
+        "time": "2:44 pm",
+        "event": "Tr-Tr Chi Cpl Jun",
+        "description": "Transiting Chiron ContraParallel Transiting Juno",
+        "interpretation": ""
+      },
+      {
+        "time": "9:56 pm",
+        "event": "Tr-Tr Jun Pll Nod",
+        "description": "Transiting Juno Parallel Transiting North Node",
+        "interpretation": ""
+      }
+    ]
+  },
+  {
+    "date": "Sep 23 2026",
+    "moon_sign_events": [
+      {
+        "time": "11:23 pm",
+        "event": "Moon enters Pisces",
+        "description": "The Moon in Pisces",
+        "interpretation": "A time to observe, feel, and process. We may pay special attention to our dreams, both of the night and day variety, and the subtle areas of our lives. Focusing on creativity, philanthropy, spirituality, and artistry can be beneficial. Build your intuition, slow down and rest."
+      }
+    ],
+    "void_of_course": [
+      {
+        "time": "4:18 am",
+        "event": "Moon goes void of course",
+        "description": "",
+        "interpretation": ""
+      }
+    ],
+    "lunations": [],
+    "stations": [
+      {
+        "time": "10:40 pm",
+        "event": "Tr Nod R",
+        "description": "Transiting North Node Stationary",
+        "interpretation": ""
+      }
+    ],
+    "aspects": [
+      {
+        "time": "0:38 am",
+        "event": "Tr-Tr Mon SSq Nep",
+        "description": "Transiting Moon SemiSquare Transiting Neptune",
+        "interpretation": "If we are not in touch with our need for inspiration, beauty, compassion, connection to something otherworldly, or our spirituality, we could feel out of sorts right now. Relaxing, listening to music, getting close to nature, or taking a break may resolve this."
+      },
+      {
+        "time": "0:47 am",
+        "event": "Tr-Tr Mon Opp Jup",
+        "description": "Transiting Moon Opposition Transiting Jupiter",
+        "interpretation": "We could be suffering the consequences of recent excesses. We might be stirred to make a promise or a statement, but it could be over the top or unrealistic. Differences of opinion could be an issue now. It can be difficult to be objective."
+      },
+      {
+        "time": "2:56 am",
+        "event": "Tr-Tr Mon Cpl Jup",
+        "description": "Transiting Moon ContraParallel Transiting Jupiter",
+        "interpretation": ""
+      },
+      {
+        "time": "4:18 am",
+        "event": "Tr-Tr Mon Tri Mer",
+        "description": "Transiting Moon Trine Transiting Mercury",
+        "interpretation": "Ideas flow freely. We express feelings with clarity and thoughts with sensitivity. An excellent time for cooperative projects. A good time for taking tests, writing, promoting, public speaking, and studying. We are alert, observant, and our memory is good."
+      },
+      {
+        "time": "1:17 pm",
+        "event": "Tr-Tr Mon Sxt Ves",
+        "description": "Transiting Moon Sextile Transiting Vesta",
+        "interpretation": "We can derive a nice feeling of satisfaction and fulfillment from tending to our responsibilities, work, or other commitment. We are more able to make sacrifices or put our emotions aside in order to get something important done. Alternatively, we can bring more sensitivity to our practical affairs. This can be a good time to commit fully to something - especially health and healing matters. It's also a strong time for taking care of domestic matters."
+      },
+      {
+        "time": "3:28 pm",
+        "event": "Tr-Tr Mon SSx Jun",
+        "description": "Transiting Moon Semisextile Transiting Juno",
+        "interpretation": ""
+      },
+      {
+        "time": "5:57 pm",
+        "event": "Tr-Tr Mon SSq Sat",
+        "description": "Transiting Moon SemiSquare Transiting Saturn",
+        "interpretation": "We could feel burdened, restricted, or limited during this brief influence. We could be feeling a little down on ourselves, excluded, or lonely. There can be some awkwardness or stiffness and difficulty showing affection and feelings. Patience is a virtue right now; otherwise we might succumb to feelings of frustration and sadness.  All good things come to those who wait."
+      },
+      {
+        "time": "6:43 pm",
+        "event": "Tr-Tr Mon Qnx Mar",
+        "description": "Transiting Moon Quincunx Transiting Mars",
+        "interpretation": "There can be tension and feelings of restlessness or impatience, as what we want to do may not feel perfectly right, or we may be lacking the courage. Avoid taking it out on the wrong things or people."
+      },
+      {
+        "time": "9:49 pm",
+        "event": "Tr-Tr Mon Sqq Cer",
+        "description": "Transiting Moon SesquiSquare Transiting Ceres",
+        "interpretation": "There may be difficulties giving or receiving affection, care, concern, and nurturing."
+      },
+      {
+        "time": "10:12 pm",
+        "event": "Tr-Tr Mon Pll Jun",
+        "description": "Transiting Moon Parallel Transiting Juno",
+        "interpretation": ""
+      },
+      {
+        "time": "10:39 pm",
+        "event": "Tr-Tr Mon Cnj Nod",
+        "description": "Transiting Moon Conjunction Transiting North Node",
+        "interpretation": "A time to embrace new opportunities for emotional growth. Accept challenges. New attachments, relationships, connections. Success may come through dealings with women or with the public. A time to consider your priorities vis a vis home and family and the outside world. Sensing current moods and trends. Fated meetings or connections."
+      },
+      {
+        "time": "10:39 pm",
+        "event": "Tr-Tr Mon Pll Nod",
+        "description": "Transiting Moon Parallel Transiting North Node",
+        "interpretation": ""
+      },
+      {
+        "time": "10:51 pm",
+        "event": "Tr-Tr Mon Cpl Chi",
+        "description": "Transiting Moon ContraParallel Transiting Chiron",
+        "interpretation": ""
+      },
+      {
+        "time": "10:57 pm",
+        "event": "Tr-Tr Mon Sxt Chi",
+        "description": "Transiting Moon Sextile Transiting Chiron",
+        "interpretation": "We are more emotionally present and involved. We more easily hone in on problem areas and want to fix them. Synchronicity is a feature of our daily life right now. Tune in and enjoy the spiritual signposts."
+      },
+      {
+        "time": "11:23 pm",
+        "event": "Tr-Tr Mon Cnj Pis",
+        "description": "Transiting Moon Entering Pisces",
+        "interpretation": "A time to observe, feel, and process. We may pay special attention to our dreams, both of the night and day variety, and the subtle areas of our lives. Focusing on creativity, philanthropy, spirituality, and artistry can be beneficial. Build your intuition, slow down and rest."
+      },
+      {
+        "time": "0:57 am",
+        "event": "Tr-Tr Sun Pll Nep",
+        "description": "Transiting Sun Parallel Transiting Neptune",
+        "interpretation": ""
+      },
+      {
+        "time": "2:54 pm",
+        "event": "Tr-Tr Mer Sqq Ura",
+        "description": "Transiting Mercury SesquiSquare Transiting Uranus",
+        "interpretation": "We may be nervous, frustrated, or excitable, and nervous tension can bring about poor, sudden decisions. We could leave projects unfinished, or could be dealing with unreliability and unexpected schedule changes."
+      }
+    ]
+  },
+  {
+    "date": "Sep 24 2026",
+    "moon_sign_events": [
+      {
+        "time": "0:00 am",
+        "event": "Moon in Pisces",
+        "description": "The Moon in Pisces",
+        "interpretation": "A time to observe, feel, and process. We may pay special attention to our dreams, both of the night and day variety, and the subtle areas of our lives. Focusing on creativity, philanthropy, spirituality, and artistry can be beneficial. Build your intuition, slow down and rest."
+      }
+    ],
+    "void_of_course": [],
+    "lunations": [],
+    "stations": [],
+    "aspects": [
+      {
+        "time": "1:39 am",
+        "event": "Tr-Tr Mon Qnx Sun",
+        "description": "Transiting Moon Quincunx Transiting Sun",
+        "interpretation": "How we feel and what we think we should do can be at odds right now. We could act on our will at the expense of our feelings, or act on our feelings at the expense of our will or ego. Either way, we can feel unsatisfied."
+      },
+      {
+        "time": "3:23 am",
+        "event": "Tr-Tr Mon Pll Pal",
+        "description": "Transiting Moon Parallel Transiting Pallas",
+        "interpretation": ""
+      },
+      {
+        "time": "3:33 am",
+        "event": "Tr-Tr Mon SSq Pal",
+        "description": "Transiting Moon SemiSquare Transiting Pallas",
+        "interpretation": "We may be concerned about what others are thinking of us now, and can be sensitive to negativity and criticism, or what we perceive as such. We might not understand one another, and can be at odds with one another on a mental or intellectual level. Someone's belief or idea can make us feel insecure or out of sorts, or otherwise rub us the wrong way."
+      },
+      {
+        "time": "5:07 am",
+        "event": "Tr-Tr Mon SSx Nep",
+        "description": "Transiting Moon Semisextile Transiting Neptune",
+        "interpretation": ""
+      },
+      {
+        "time": "5:22 am",
+        "event": "Tr-Tr Mon SSx Plu",
+        "description": "Transiting Moon Semisextile Transiting Pluto",
+        "interpretation": ""
+      },
+      {
+        "time": "8:20 am",
+        "event": "Tr-Tr Mon Pll Mer",
+        "description": "Transiting Moon Parallel Transiting Mercury",
+        "interpretation": ""
+      },
+      {
+        "time": "9:55 am",
+        "event": "Tr-Tr Mon Sqr Ura",
+        "description": "Transiting Moon Square Transiting Uranus",
+        "interpretation": "There may be sudden, minor changes to plans, schedules. There can be rebelliousness and tension. Aim to be open to possibilities, and avoid making permanent decisions."
+      },
+      {
+        "time": "12:21 pm",
+        "event": "Tr-Tr Mon Sqq Mer",
+        "description": "Transiting Moon SesquiSquare Transiting Mercury",
+        "interpretation": "What feels right clashes with logic today. What people are saying may be a misrepresentation of their true feelings/emotions. It's better to think before we speak, or misunderstandings can follow."
+      },
+      {
+        "time": "12:45 pm",
+        "event": "Tr-Tr Mon Tri Ven",
+        "description": "Transiting Moon Trine Transiting Venus",
+        "interpretation": "We are less inhibited and more willing to indulge ourselves. Love and romance can be favorable. Decorating, beauty treatments, the arts, creative pursuits, parties, dates, and recreation are generally favored now. There is increased sensitivity, affection, and warmth. Love is grand! Affection, love, and romance are in the air."
+      },
+      {
+        "time": "5:01 pm",
+        "event": "Tr-Tr Mon SSq Ves",
+        "description": "Transiting Moon SemiSquare Transiting Vesta",
+        "interpretation": "We can be a little stiff with our emotions, and we can be distracted from our work or focus. There can be difficulty expressing tenderness, concern, or care."
+      },
+      {
+        "time": "7:42 pm",
+        "event": "Tr-Tr Mon SSq Jun",
+        "description": "Transiting Moon SemiSquare Transiting Juno",
+        "interpretation": "There may be clinging or controlling behavior if we are driven by our fears. Hypersensitivity and moodiness are possible. Tread lightly with tricky emotional issues."
+      },
+      {
+        "time": "9:50 pm",
+        "event": "Tr-Tr Mon SSx Sat",
+        "description": "Transiting Moon Semisextile Transiting Saturn",
+        "interpretation": ""
+      }
+    ]
+  },
+  {
+    "date": "Sep 25 2026",
+    "moon_sign_events": [
+      {
+        "time": "0:00 am",
+        "event": "Moon in Pisces",
+        "description": "The Moon in Pisces",
+        "interpretation": "A time to observe, feel, and process. We may pay special attention to our dreams, both of the night and day variety, and the subtle areas of our lives. Focusing on creativity, philanthropy, spirituality, and artistry can be beneficial. Build your intuition, slow down and rest."
+      }
+    ],
+    "void_of_course": [],
+    "lunations": [],
+    "stations": [],
+    "aspects": [
+      {
+        "time": "0:04 am",
+        "event": "Tr-Tr Mon Sqq Mar",
+        "description": "Transiting Moon SesquiSquare Transiting Mars",
+        "interpretation": "We can overreact and exhibit impatience. However, this can also be a time of self-motivation."
+      },
+      {
+        "time": "2:22 am",
+        "event": "Tr-Tr Mon Tri Cer",
+        "description": "Transiting Moon Trine Transiting Ceres",
+        "interpretation": "We can be feeling pleasantly attached to, or supported by, our loved ones or family. We are seeking out security, nurturing, and warmth, and we are more likely to express these things towards others."
+      },
+      {
+        "time": "2:46 am",
+        "event": "Tr-Tr Mon SSq Chi",
+        "description": "Transiting Moon SemiSquare Transiting Chiron",
+        "interpretation": "Hurt feelings may be opportunities for healing. Now is the time for building bridges, not burning them."
+      },
+      {
+        "time": "6:47 am",
+        "event": "Tr-Tr Mon SSx Pal",
+        "description": "Transiting Moon Semisextile Transiting Pallas",
+        "interpretation": ""
+      },
+      {
+        "time": "9:03 am",
+        "event": "Tr-Tr Mon SSq Plu",
+        "description": "Transiting Moon SemiSquare Transiting Pluto",
+        "interpretation": "Deeper feelings emerge suddenly, and possibly in a disruptive way. We may be over-reacting or going to extremes. Wait for the tension to subside before taking action."
+      },
+      {
+        "time": "9:51 am",
+        "event": "Tr-Tr Mon Qnx Jup",
+        "description": "Transiting Moon Quincunx Transiting Jupiter",
+        "interpretation": "Watch for moody decisions and excesses now."
+      },
+      {
+        "time": "12:33 pm",
+        "event": "Tr-Tr Mon Cpl Sat",
+        "description": "Transiting Moon ContraParallel Transiting Saturn",
+        "interpretation": ""
+      },
+      {
+        "time": "3:27 pm",
+        "event": "Tr-Tr Mon Pll Ves",
+        "description": "Transiting Moon Parallel Transiting Vesta",
+        "interpretation": ""
+      },
+      {
+        "time": "4:52 pm",
+        "event": "Tr-Tr Mon Sqq Ven",
+        "description": "Transiting Moon SesquiSquare Transiting Venus",
+        "interpretation": "We can feel a little out of sorts. Our needs for pleasure, love, or entertainment may be at odds with our needs for comfort and familiarity, and we can be on the fence about what to do next. Overspending or overeating is possible."
+      },
+      {
+        "time": "4:54 pm",
+        "event": "Tr-Tr Mon Pll Sun",
+        "description": "Transiting Moon Parallel Transiting Sun",
+        "interpretation": ""
+      },
+      {
+        "time": "7:12 pm",
+        "event": "Tr-Tr Mon Qnx Mer",
+        "description": "Transiting Moon Quincunx Transiting Mercury",
+        "interpretation": "It can be difficult to be objective at this time. This can be a \"foot in mouth\" time. We should think before we speak, or there could be hurt feelings."
+      },
+      {
+        "time": "7:58 pm",
+        "event": "Tr-Tr Mon SSx Ves",
+        "description": "Transiting Moon Semisextile Transiting Vesta",
+        "interpretation": ""
+      },
+      {
+        "time": "8:45 pm",
+        "event": "Tr-Tr Mon Pll Nep",
+        "description": "Transiting Moon Parallel Transiting Neptune",
+        "interpretation": ""
+      },
+      {
+        "time": "11:08 pm",
+        "event": "Tr-Tr Mon Sxt Jun",
+        "description": "Transiting Moon Sextile Transiting Juno",
+        "interpretation": "We can gain strength through others or through our relationships, and we are especially comfortable in one-on-one situations."
+      },
+      {
+        "time": "9:35 pm",
+        "event": "Tr-Tr Sun Opp Nep",
+        "description": "Transiting Sun Opposition Transiting Neptune",
+        "interpretation": "This a time for dreaming rather than important decision-making. It's a good time to pay special attention to dreams and inspiration. Clarity may not be with us, but we probably don't need it right now. It's difficult to know for certain what we want, as we may be wavering. Confusion about a relationship or idealizing a person could figure strongly now."
+      },
+      {
+        "time": "8:51 am",
+        "event": "Tr-Tr Cer Sqq Nod",
+        "description": "Transiting Ceres SesquiSquare Transiting North Node",
+        "interpretation": ""
+      }
+    ]
+  },
+  {
+    "date": "Sep 26 2026",
+    "moon_sign_events": [
+      {
+        "time": "6:22 am",
+        "event": "Moon enters Aries",
+        "description": "The Moon in Aries",
+        "interpretation": "We are itching to take action and to pioneer something. All things equal, this is a time to begin new projects. Exercise patience and selflessness where possible, but embrace Aries' courage and directness. Look out for new opportunities."
+      }
+    ],
+    "void_of_course": [
+      {
+        "time": "4:31 am",
+        "event": "Moon goes void of course",
+        "description": "",
+        "interpretation": ""
+      }
+    ],
+    "lunations": [
+      {
+        "time": "12:48 pm",
+        "event": "Full Moon at 3\u00b0Ar37'",
+        "description": "",
+        "interpretation": ""
+      }
+    ],
+    "stations": [],
+    "aspects": [
+      {
+        "time": "1:59 am",
+        "event": "Tr-Tr Mon Cpl Sun",
+        "description": "Transiting Moon ContraParallel Transiting Sun",
+        "interpretation": ""
+      },
+      {
+        "time": "3:04 am",
+        "event": "Tr-Tr Mon Cpl Ves",
+        "description": "Transiting Moon ContraParallel Transiting Vesta",
+        "interpretation": ""
+      },
+      {
+        "time": "4:31 am",
+        "event": "Tr-Tr Mon Tri Mar",
+        "description": "Transiting Moon Trine Transiting Mars",
+        "interpretation": "We are more courageous and able to take the lead. We are in tune with our natural desires and instincts. We express our feelings honestly. We are independent, resourceful, and brave."
+      },
+      {
+        "time": "5:34 am",
+        "event": "Tr-Tr Mon SSx Nod",
+        "description": "Transiting Moon Semisextile Transiting North Node",
+        "interpretation": ""
+      },
+      {
+        "time": "5:38 am",
+        "event": "Tr-Tr Mon Pll Sat",
+        "description": "Transiting Moon Parallel Transiting Saturn",
+        "interpretation": ""
+      },
+      {
+        "time": "5:48 am",
+        "event": "Tr-Tr Mon SSx Chi",
+        "description": "Transiting Moon Semisextile Transiting Chiron",
+        "interpretation": ""
+      },
+      {
+        "time": "6:22 am",
+        "event": "Tr-Tr Mon Cnj Ari",
+        "description": "Transiting Moon Entering Aries",
+        "interpretation": "We are itching to take action and to pioneer something. All things equal, this is a time to begin new projects. Exercise patience and selflessness where possible, but embrace Aries' courage and directness. Look out for new opportunities."
+      },
+      {
+        "time": "11:40 am",
+        "event": "Tr-Tr Mon Cnj Nep",
+        "description": "Transiting Moon Conjunction Transiting Neptune",
+        "interpretation": "We are easily influenced, vulnerable, compassionate, and sensitive. We could be led astray, and we are easily swayed. There is devotion but possibly inconstancy as well. A dreamy, possibly impractical time."
+      },
+      {
+        "time": "11:59 am",
+        "event": "Tr-Tr Mon Sxt Plu",
+        "description": "Transiting Moon Sextile Transiting Pluto",
+        "interpretation": "This can be a good time for getting loans, for taking care of business, and for dealing with money matters. It's also good for getting in touch with feelings and managing them effectively. There can be a boost to our intimate life, creative impulses, and self-understanding. Events occurring now might involve some kind of karmic repayment or benefit. We could discover new information, hidden information, or a lost item. This is a time for recycling - seeing new uses for old items. True feelings come to the surface."
+      },
+      {
+        "time": "12:48 pm",
+        "event": "Tr-Tr Mon Opp Sun",
+        "description": "Transiting Moon Opposition Transiting Sun",
+        "interpretation": "A Full Moon occurs now. Discrepancies between our actions and your emotional needs can reach a head. This is a time for acknowledging our feelings, but there is also a need for some self-control."
+      },
+      {
+        "time": "1:09 pm",
+        "event": "Tr-Tr Mon Sqq Jup",
+        "description": "Transiting Moon SesquiSquare Transiting Jupiter",
+        "interpretation": "Time to show some restraint. Grandiosity is not appealing. Neither is excess. Practice self-control. Self-indulgence is more likely now. We're not as inclined to consider the consequences of over-eating, over-drinking, or overdoing in general. We may be acting in a haughty manner."
+      },
+      {
+        "time": "4:17 pm",
+        "event": "Tr-Tr Mon Sxt Ura",
+        "description": "Transiting Moon Sextile Transiting Uranus",
+        "interpretation": "We are open to new ideas. A break in the routine is pleasing now. We could be experimenting with new ideas or feelings."
+      },
+      {
+        "time": "8:06 pm",
+        "event": "Tr-Tr Mon Qnx Ven",
+        "description": "Transiting Moon Quincunx Transiting Venus",
+        "interpretation": "Love relationships or feelings can be unsettled. There can be a conflict experienced between family and friends/lovers, or between comfort and the pursuit of pleasure. Try to relax and not obsess, and show restraint."
+      },
+      {
+        "time": "1:34 am",
+        "event": "Tr-Tr Sun Tri Plu",
+        "description": "Transiting Sun Trine Transiting Pluto",
+        "interpretation": "Your biological urges are powerful right now. Enjoy the feelings, learn from them and trust that all is in order."
+      },
+      {
+        "time": "6:31 pm",
+        "event": "Tr-Tr Sun SSq Jup",
+        "description": "Transiting Sun SemiSquare Transiting Jupiter",
+        "interpretation": "There can be exaggerated good moods or a tendency to go over the top now."
+      },
+      {
+        "time": "1:38 am",
+        "event": "Tr-Tr Mer Opp Ves",
+        "description": "Transiting Mercury Opposition Transiting Vesta",
+        "interpretation": "There can be distractions and difficulty focusing now, and important details may be missed in the process. There may be a misjudgment of how much effort something requires, prompting the need to be make some adjustments."
+      }
+    ]
+  },
+  {
+    "date": "Sep 27 2026",
+    "moon_sign_events": [
+      {
+        "time": "0:00 am",
+        "event": "Moon in Aries",
+        "description": "The Moon in Aries",
+        "interpretation": "We are itching to take action and to pioneer something. All things equal, this is a time to begin new projects. Exercise patience and selflessness where possible, but embrace Aries' courage and directness. Look out for new opportunities."
+      }
+    ],
+    "void_of_course": [],
+    "lunations": [],
+    "stations": [],
+    "aspects": [
+      {
+        "time": "3:19 am",
+        "event": "Tr-Tr Mon Cnj Sat",
+        "description": "Transiting Moon Conjunction Transiting Saturn",
+        "interpretation": "There can be stronger awareness of our responsibilities, or new responsibilities fall into our laps. Emotions may be cooled, and we can appear to be unsympathetic. A time for making lists. Emotional matters may not fare very well. There can be some loneliness or starkness felt. An auspicious time for projects demanding endurance or tolerance. Also good for establishing new habits and rituals."
+      },
+      {
+        "time": "7:51 am",
+        "event": "Tr-Tr Mon SSq Nod",
+        "description": "Transiting Moon SemiSquare Transiting North Node",
+        "interpretation": "There may be the need to pause to adjust things before moving plans forward. We could feel at odds with others on an emotional level. Public relations are not as favorable now."
+      },
+      {
+        "time": "9:03 am",
+        "event": "Tr-Tr Mon Sqr Cer",
+        "description": "Transiting Moon Square Transiting Ceres",
+        "interpretation": "There can be conflicts with loved ones, or we could be feeling unsupported. People could seem insensitive or uncaring, or our own needs seem to be at odds with the needs of family and friends."
+      },
+      {
+        "time": "11:08 am",
+        "event": "Tr-Tr Mon Cnj Pal",
+        "description": "Transiting Moon Conjunction Transiting Pallas",
+        "interpretation": "This is a time of imagination and intuition, when we can draw upon our internal wisdom. There is a good ability to successfully combine logic and intuition, and to understand problems taking into account the human element. There is sensitivity to people's issues now. Cooperation. Effective, sensitive decision making."
+      },
+      {
+        "time": "3:45 pm",
+        "event": "Tr-Tr Mon Tri Jup",
+        "description": "Transiting Moon Trine Transiting Jupiter",
+        "interpretation": "We want to do good and to honor our inner code. We don't sweat the small stuff right now. We are generous with our energy, time, and money. A great time to take up new feel-good opportunities. Show your confidence and optimism and reap the rewards."
+      },
+      {
+        "time": "5:18 pm",
+        "event": "Tr-Tr Mon Cpl Mer",
+        "description": "Transiting Moon ContraParallel Transiting Mercury",
+        "interpretation": ""
+      },
+      {
+        "time": "5:23 pm",
+        "event": "Tr-Tr Mon Pll Chi",
+        "description": "Transiting Moon Parallel Transiting Chiron",
+        "interpretation": ""
+      },
+      {
+        "time": "5:25 pm",
+        "event": "Tr-Tr Mon Cpl Pal",
+        "description": "Transiting Moon ContraParallel Transiting Pallas",
+        "interpretation": ""
+      },
+      {
+        "time": "6:03 pm",
+        "event": "Tr-Tr Mon Cpl Nod",
+        "description": "Transiting Moon ContraParallel Transiting North Node",
+        "interpretation": ""
+      },
+      {
+        "time": "6:27 pm",
+        "event": "Tr-Tr Mon SSq Ura",
+        "description": "Transiting Moon SemiSquare Transiting Uranus",
+        "interpretation": "We can easily find ourselves all wound up and nervous. Unpredictable responses from others (and ourselves). Emotional eruptions are possible. Not a good time to make permanent decisions, particularly about relationships and family/domestic matters."
+      },
+      {
+        "time": "7:40 pm",
+        "event": "Tr-Tr Mon Cpl Jun",
+        "description": "Transiting Moon ContraParallel Transiting Juno",
+        "interpretation": ""
+      },
+      {
+        "time": "11:52 pm",
+        "event": "Tr-Tr Mon Cnj Ves",
+        "description": "Transiting Moon Conjunction Transiting Vesta",
+        "interpretation": "We are a little serious or stiff in self-expression at this time. We are more able to make sacrifices or put our emotions aside in order to get something important done. This can be a good time to commit fully to something - especially health and healing matters."
+      },
+      {
+        "time": "1:31 am",
+        "event": "Tr-Tr Sun Pll Ves",
+        "description": "Transiting Sun Parallel Transiting Vesta",
+        "interpretation": ""
+      },
+      {
+        "time": "10:07 am",
+        "event": "Tr-Tr Mer Sqr Jun",
+        "description": "Transiting Mercury Square Transiting Juno",
+        "interpretation": "There can be misunderstandings now. We may be expecting others to fill our mental needs or to communicate with us/listen to us, when they have other ideas and preoccupations. There can be fickleness, an inability to listen to others, and nervous energy. This is not the best time for focus and connection."
+      },
+      {
+        "time": "6:04 pm",
+        "event": "Tr-Tr Mer Cpl Chi",
+        "description": "Transiting Mercury ContraParallel Transiting Chiron",
+        "interpretation": ""
+      },
+      {
+        "time": "7:10 pm",
+        "event": "Tr-Tr Mer Pll Pal",
+        "description": "Transiting Mercury Parallel Transiting Pallas",
+        "interpretation": ""
+      },
+      {
+        "time": "1:51 am",
+        "event": "Tr-Tr Mar Qnx Nod",
+        "description": "Transiting Mars Quincunx Transiting North Node",
+        "interpretation": "Behavior and desires are at odds with our higher goals. We might take on too much now, or our impatience can interfere with success (haste makes waste). In order to take advantage of new opportunities to achieve our desires, we have to let go of some wilfulness and expectations."
+      },
+      {
+        "time": "7:58 am",
+        "event": "Tr-Tr Mar Sqr Chi",
+        "description": "Transiting Mars Square Transiting Chiron",
+        "interpretation": "We can be quite touchy and easily aggravated at this time if we are not dealing with the source of our anger issues and frustrations. With these emerging, we can more easily see what's tripping us up. Physical activity might also help release stress now."
+      },
+      {
+        "time": "10:48 pm",
+        "event": "Tr-Tr Mar Cnj Leo",
+        "description": "Transiting Mars Entering Leo",
+        "interpretation": "Time to express your personal creativity and make an impact. Be assertive and playful, rather than arrogant."
+      },
+      {
+        "time": "4:50 pm",
+        "event": "Tr-Tr Chi Cpl Pal",
+        "description": "Transiting Chiron ContraParallel Transiting Pallas",
+        "interpretation": ""
+      }
+    ]
+  },
+  {
+    "date": "Sep 28 2026",
+    "moon_sign_events": [
+      {
+        "time": "10:39 am",
+        "event": "Moon enters Taurus",
+        "description": "The Moon in Taurus",
+        "interpretation": "This is a time for settling in, establishing and maintaining routines, and consolidating existing projects. We are building and developing. We crave predictability, stability, and security. This time favors ongoing projects and activities more than new ones."
+      }
+    ],
+    "void_of_course": [
+      {
+        "time": "5:50 am",
+        "event": "Moon goes void of course",
+        "description": "",
+        "interpretation": ""
+      }
+    ],
+    "lunations": [],
+    "stations": [],
+    "aspects": [
+      {
+        "time": "3:58 am",
+        "event": "Tr-Tr Mon Sqr Jun",
+        "description": "Transiting Moon Square Transiting Juno",
+        "interpretation": "There may be clinging or controlling behavior if we are driven by our fears. Hypersensitivity and moodiness are possible. Tread lightly with tricky emotional issues."
+      },
+      {
+        "time": "5:50 am",
+        "event": "Tr-Tr Mon Opp Mer",
+        "description": "Transiting Moon Opposition Transiting Mercury",
+        "interpretation": "Relationships can be somewhat strained as responses to one another can be too intellectual/logical or too emotional, swinging between the two.Nervous energy, hypersensitivity. How we feel and what we think can be at odds."
+      },
+      {
+        "time": "9:34 am",
+        "event": "Tr-Tr Mon Sxt Nod",
+        "description": "Transiting Moon Sextile Transiting North Node",
+        "interpretation": "A good time for dealing with the public, for making connections, and for taking positive steps towards a personal or professional goal. You are able to make changes. This is a feel-good time for embracing new opportunities."
+      },
+      {
+        "time": "9:57 am",
+        "event": "Tr-Tr Mon Cnj Chi",
+        "description": "Transiting Moon Conjunction Transiting Chiron",
+        "interpretation": "There can be events or memories that trigger feelings of rejection or loss. There can be new or easy understanding of our feelings and impressions now. We have a greater understanding of, or compassion for, others' plights. We are more emotionally present and involved, but also quite vulnerable. Synchronicity is a feature of our daily lives now. Tune in and enjoy the spiritual signposts."
+      },
+      {
+        "time": "10:26 am",
+        "event": "Tr-Tr Mon Pll Jup",
+        "description": "Transiting Moon Parallel Transiting Jupiter",
+        "interpretation": ""
+      },
+      {
+        "time": "10:39 am",
+        "event": "Tr-Tr Mon Cnj Tau",
+        "description": "Transiting Moon Entering Taurus",
+        "interpretation": "This is a time for settling in, establishing and maintaining routines, and consolidating existing projects. We are building and developing. We crave predictability, stability, and security. This time favors ongoing projects and activities more than new ones."
+      },
+      {
+        "time": "11:10 am",
+        "event": "Tr-Tr Mon Sqr Mar",
+        "description": "Transiting Moon Square Transiting Mars",
+        "interpretation": "We can overreact and exhibit impatience. However, this can also be a time of self-motivation. Our need for challenges and action is stimulated now, but we may not find the right outlets."
+      },
+      {
+        "time": "3:39 pm",
+        "event": "Tr-Tr Mon SSx Nep",
+        "description": "Transiting Moon Semisextile Transiting Neptune",
+        "interpretation": ""
+      },
+      {
+        "time": "4:01 pm",
+        "event": "Tr-Tr Mon Sqr Plu",
+        "description": "Transiting Moon Square Transiting Pluto",
+        "interpretation": "Deeper feelings emerge suddenly, and possibly in a disruptive way. We may be over-reacting or going to extremes. Wait for the tension to subside before taking action."
+      },
+      {
+        "time": "8:08 pm",
+        "event": "Tr-Tr Mon SSx Ura",
+        "description": "Transiting Moon Semisextile Transiting Uranus",
+        "interpretation": ""
+      },
+      {
+        "time": "8:43 pm",
+        "event": "Tr-Tr Mon Qnx Sun",
+        "description": "Transiting Moon Quincunx Transiting Sun",
+        "interpretation": "How we feel and what we think we should do can be at odds right now. We could act on our will at the expense of our feelings, or act on our feelings at the expense of our will or ego. Either way, we can feel unsatisfied."
+      },
+      {
+        "time": "9:11 am",
+        "event": "Tr-Tr Sun Cpl Sat",
+        "description": "Transiting Sun ContraParallel Transiting Saturn",
+        "interpretation": ""
+      },
+      {
+        "time": "12:21 pm",
+        "event": "Tr-Tr Sun Tri Ura",
+        "description": "Transiting Sun Trine Transiting Uranus",
+        "interpretation": "We are looking forward, happy and confident about making changes and improvements. We are willing to experiment and explore."
+      },
+      {
+        "time": "0:58 am",
+        "event": "Tr-Tr Mer Pll Nod",
+        "description": "Transiting Mercury Parallel Transiting North Node",
+        "interpretation": ""
+      },
+      {
+        "time": "7:54 pm",
+        "event": "Tr-Tr Mer Pll Jun",
+        "description": "Transiting Mercury Parallel Transiting Juno",
+        "interpretation": ""
+      },
+      {
+        "time": "1:38 am",
+        "event": "Tr-Tr Mar Pll Ura",
+        "description": "Transiting Mars Parallel Transiting Uranus",
+        "interpretation": ""
+      },
+      {
+        "time": "8:53 am",
+        "event": "Tr-Tr Pal Pll Nod",
+        "description": "Transiting Pallas Parallel Transiting North Node",
+        "interpretation": ""
+      }
+    ]
+  },
+  {
+    "date": "Sep 29 2026",
+    "moon_sign_events": [
+      {
+        "time": "0:00 am",
+        "event": "Moon in Taurus",
+        "description": "The Moon in Taurus",
+        "interpretation": "This is a time for settling in, establishing and maintaining routines, and consolidating existing projects. We are building and developing. We crave predictability, stability, and security. This time favors ongoing projects and activities more than new ones."
+      }
+    ],
+    "void_of_course": [
+      {
+        "time": "7:35 pm",
+        "event": "Moon goes void of course",
+        "description": "",
+        "interpretation": ""
+      }
+    ],
+    "lunations": [],
+    "stations": [],
+    "aspects": [
+      {
+        "time": "0:35 am",
+        "event": "Tr-Tr Mon Opp Ven",
+        "description": "Transiting Moon Opposition Transiting Venus",
+        "interpretation": "There may be emotional epiphanies or displays of affection now. Sentimentality and overindulgence are likely now. Differences in views and feelings with someone can be pronounced and could bother us now. Try to relax and not obsess."
+      },
+      {
+        "time": "6:34 am",
+        "event": "Tr-Tr Mon SSx Sat",
+        "description": "Transiting Moon Semisextile Transiting Saturn",
+        "interpretation": ""
+      },
+      {
+        "time": "10:29 am",
+        "event": "Tr-Tr Mon Cpl Ven",
+        "description": "Transiting Moon ContraParallel Transiting Venus",
+        "interpretation": ""
+      },
+      {
+        "time": "11:08 am",
+        "event": "Tr-Tr Mon Pll Mar",
+        "description": "Transiting Moon Parallel Transiting Mars",
+        "interpretation": ""
+      },
+      {
+        "time": "11:55 am",
+        "event": "Tr-Tr Mon Pll Ura",
+        "description": "Transiting Moon Parallel Transiting Uranus",
+        "interpretation": ""
+      },
+      {
+        "time": "1:24 pm",
+        "event": "Tr-Tr Mon Sxt Cer",
+        "description": "Transiting Moon Sextile Transiting Ceres",
+        "interpretation": "We can be feeling pleasantly attached to, or supported by, our loved ones or family. We are seeking out security, nurturing, and warmth, and we are more likely to express these things towards others."
+      },
+      {
+        "time": "1:27 pm",
+        "event": "Tr-Tr Mon SSx Pal",
+        "description": "Transiting Moon Semisextile Transiting Pallas",
+        "interpretation": ""
+      },
+      {
+        "time": "5:02 pm",
+        "event": "Tr-Tr Mon SSq Nep",
+        "description": "Transiting Moon SemiSquare Transiting Neptune",
+        "interpretation": "If we are not in touch with our need for inspiration, beauty, compassion, connection to something otherworldly, or our spirituality, we could feel out of sorts right now. Relaxing, listening to music, getting close to nature, or taking a break may resolve this."
+      },
+      {
+        "time": "7:35 pm",
+        "event": "Tr-Tr Mon Sqr Jup",
+        "description": "Transiting Moon Square Transiting Jupiter",
+        "interpretation": "We may not be very realistic right now - there can be some exaggeration. Minor annoyances are possible now. Contrariness or disagreements. This is not an ideal time for publicity, promotion, or legal matters. We can experience injustices. We are less inclined to consider the consequences of over-eating, over-drinking, or overdoing in general. This is a time to show some restraint. Grandiosity is not appreciated right now, and excess doesn't go over well either. With a little self-control we can learn about what truly makes us happy."
+      },
+      {
+        "time": "11:38 pm",
+        "event": "Tr-Tr Mon Pll Cer",
+        "description": "Transiting Moon Parallel Transiting Ceres",
+        "interpretation": ""
+      },
+      {
+        "time": "11:59 pm",
+        "event": "Tr-Tr Mon Sqq Sun",
+        "description": "Transiting Moon SesquiSquare Transiting Sun",
+        "interpretation": "What we feel and what we think we should do can be at odds with one another temporarily. There can be discontent or indecisiveness. We could be feeling out of sorts. Tensions will pass."
+      },
+      {
+        "time": "6:06 pm",
+        "event": "Tr-Tr Mer Tri Nod",
+        "description": "Transiting Mercury Trine Transiting North Node",
+        "interpretation": "Projects prove successful right now, particularly those involving teamwork. Cooperate and reap the rewards."
+      },
+      {
+        "time": "11:14 pm",
+        "event": "Tr-Tr Mer Opp Chi",
+        "description": "Transiting Mercury Opposition Transiting Chiron",
+        "interpretation": "There can be insecurity about our own ideas or decisions, or we may not know who/what to believe. Words, or lack of, can hurt right now. There is greater sensitivity to what is being said, choice of words, and syntax."
+      },
+      {
+        "time": "11:23 pm",
+        "event": "Tr-Tr Ven Cpl Mar",
+        "description": "Transiting Venus ContraParallel Transiting Mars",
+        "interpretation": ""
+      },
+      {
+        "time": "2:34 pm",
+        "event": "Tr-Tr Pal Sqr Cer",
+        "description": "Transiting Pallas Square Transiting Ceres",
+        "interpretation": "We may be having a hard time reconciling our thinking with our feelings, or we could feel that others are blocking or challenging our ideas or questioning our attachments. There can be difficulty coming to satisfying conclusions."
+      }
+    ]
+  },
+  {
+    "date": "Sep 30 2026",
+    "moon_sign_events": [
+      {
+        "time": "1:25 pm",
+        "event": "Moon enters Gemini",
+        "description": "The Moon in Gemini",
+        "interpretation": "We are attracted to new ideas, but we need to discriminate more so that we don't become too scattered. Communications mean more to us than usual."
+      }
+    ],
+    "void_of_course": [],
+    "lunations": [],
+    "stations": [],
+    "aspects": [
+      {
+        "time": "2:02 am",
+        "event": "Tr-Tr Mon SSx Ves",
+        "description": "Transiting Moon Semisextile Transiting Vesta",
+        "interpretation": ""
+      },
+      {
+        "time": "2:33 am",
+        "event": "Tr-Tr Mon Cpl Plu",
+        "description": "Transiting Moon ContraParallel Transiting Pluto",
+        "interpretation": ""
+      },
+      {
+        "time": "7:09 am",
+        "event": "Tr-Tr Mon Tri Jun",
+        "description": "Transiting Moon Trine Transiting Juno",
+        "interpretation": "We can gain strength through others or through our relationships, and we are especially comfortable in one-on-one situations."
+      },
+      {
+        "time": "7:44 am",
+        "event": "Tr-Tr Mon SSq Sat",
+        "description": "Transiting Moon SemiSquare Transiting Saturn",
+        "interpretation": "We could feel burdened, restricted, or limited during this brief influence. We could be feeling a little down on ourselves, excluded, or lonely. There can be some awkwardness or stiffness and difficulty showing affection and feelings. Patience is a virtue right now; otherwise we might succumb to feelings of frustration and sadness.  All good things come to those who wait."
+      },
+      {
+        "time": "12:02 pm",
+        "event": "Tr-Tr Mon Sqr Nod",
+        "description": "Transiting Moon Square Transiting North Node",
+        "interpretation": "This is the trigger for out with the old and in with the new. We could feel at odds with others on an emotional level. Public relations are not as favorable now. Plans could need reworking. We could feel temporarily out of the loop."
+      },
+      {
+        "time": "12:35 pm",
+        "event": "Tr-Tr Mon SSx Chi",
+        "description": "Transiting Moon Semisextile Transiting Chiron",
+        "interpretation": ""
+      },
+      {
+        "time": "1:25 pm",
+        "event": "Tr-Tr Mon Cnj Gem",
+        "description": "Transiting Moon Entering Gemini",
+        "interpretation": "We are attracted to new ideas, but we need to discriminate more so that we don't become too scattered. Communications mean more to us than usual."
+      },
+      {
+        "time": "2:00 pm",
+        "event": "Tr-Tr Mon Qnx Mer",
+        "description": "Transiting Moon Quincunx Transiting Mercury",
+        "interpretation": "It can be difficult to be objective at this time. This can be a \"foot in mouth\" time. We should think before we speak, or there could be hurt feelings."
+      },
+      {
+        "time": "2:14 pm",
+        "event": "Tr-Tr Mon SSq Pal",
+        "description": "Transiting Moon SemiSquare Transiting Pallas",
+        "interpretation": "We may be concerned about what others are thinking of us now, and can be sensitive to negativity and criticism, or what we perceive as such. We might not understand one another, and can be at odds with one another on a mental or intellectual level. Someone's belief or idea can make us feel insecure or out of sorts, or otherwise rub us the wrong way."
+      },
+      {
+        "time": "3:10 pm",
+        "event": "Tr-Tr Mon SSq Cer",
+        "description": "Transiting Moon SemiSquare Transiting Ceres",
+        "interpretation": ""
+      },
+      {
+        "time": "4:06 pm",
+        "event": "Tr-Tr Mon Sxt Mar",
+        "description": "Transiting Moon Sextile Transiting Mars",
+        "interpretation": "We are more courageous and able to take the lead. We are in tune with our natural desires and instincts. We express our feelings honestly. We are independent, resourceful, and brave."
+      },
+      {
+        "time": "6:14 pm",
+        "event": "Tr-Tr Mon Sxt Nep",
+        "description": "Transiting Moon Sextile Transiting Neptune",
+        "interpretation": "This is a feel-good time if we allow ourselves to relax and tune into the subtle aspects of life - art, nature, beauty, dreams, and spiritual realms. We absorb things easily, our senses are in good form, and we more naturally accept things and people as they are. There is no need to look for definite answers right now."
+      },
+      {
+        "time": "6:40 pm",
+        "event": "Tr-Tr Mon Tri Plu",
+        "description": "Transiting Moon Trine Transiting Pluto",
+        "interpretation": "This can be a good time for getting loans, for taking care of business, and for dealing with money matters. It's also good for getting in touch with feelings and managing them effectively. There can be a boost to our intimate life, creative impulses, and self-understanding. Events occurring now might involve some kind of karmic repayment or benefit. We could discover new information, hidden information, or a lost item. This is a time for recycling - seeing new uses for old items. True feelings come to the surface."
+      },
+      {
+        "time": "10:42 pm",
+        "event": "Tr-Tr Mon Cnj Ura",
+        "description": "Transiting Moon Conjunction Transiting Uranus",
+        "interpretation": "Be open to new ideas. Spontaneity is the order of the day. You are free to explore new unexpected possibilities."
+      },
+      {
+        "time": "7:44 am",
+        "event": "Tr-Tr Mer Cnj Sco",
+        "description": "Transiting Mercury Entering Scorpio",
+        "interpretation": "Use resources well. Delve into the core of matters, Avoid worry and intense communications. Meditate and contemplate."
+      },
+      {
+        "time": "2:45 pm",
+        "event": "Tr-Tr Pal Pll Jun",
+        "description": "Transiting Pallas Parallel Transiting Juno",
+        "interpretation": ""
+      }
+    ]
+  }
+]
